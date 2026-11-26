@@ -1,0 +1,13 @@
+{
+  ".gitignore": "6dccf66d372318a0068120977ab197e818223f2aef12e219aa367b0880e22fa0",
+  "demo.py": "a6afb9859b479d81e1e1334821606a8f4ae774636d8b118843fe81b91c68c5e4",
+  "README.md": "ce8976c6441f1dd8c888a2168300d4ba77f00057cb31173cacb0613078a65dbd",
+  "README_zh.md": "9ae6146fb873f1010bf171cf6389a7006002caca37eb3e7bddc4e51f5ec06aae",
+  "requirements.txt": "71b4ac5c5f3528f2be305f19dbef57374231deeac42910b274f4535a56049ff1",
+  "semantic_core/__init__.py": "99e4fab561f64b5ae436db5b032d92d2d7e93585da53a58231533c0498020b71",
+  "semantic_core/config.py": "6ff7bd2cbc6d76ae9f1fe8af782bb066299bd75e3b88edb3f3bc78eb67d57fc4",
+  "semantic_core/core.py": "7706bfc08a9b2aadaa10eb39c380faac5f36fc0793f87cf7f9ce628cccb8b2e1",
+  "semantic_core/losses.py": "31cf0e721643ba18c9cff4e6574474086a082f324c86428d3624c39fb6b1213e",
+  "SOURCE_PROVENANCE.md": "14d3d7ba7668e919b156f156fabb4392686eacb0a9e0977475ca06c808b99149",
+  "VALIDATION.md": "1321198bb12fea58d973b33b1ceccae47d94b7935f1c3a994c35338f2cd24e4c"
+}

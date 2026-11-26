@@ -1,0 +1,2067 @@
+[
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c004/calibration.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c004\\calibration.txt",
+    "bytes": 228,
+    "sha256": "87a16928bc92afd3e8979fe0bf719172467933c4e40e882e4ca7db258c775144",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c004/roi.jpg",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c004\\roi.jpg",
+    "bytes": 36524,
+    "sha256": "599a9a8a1e301084431295227bc614859cab0c16876d6dca71b470b40170ddfb",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c004/vdo.avi",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c004\\vdo.avi",
+    "bytes": 150913934,
+    "sha256": "9017a4880108bf0837f0d284fcc9a981175df7c0ba62d36eba33371b7086770b",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c004/det/det_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c004\\det\\det_mask_rcnn.txt",
+    "bytes": 1223971,
+    "sha256": "842ac002e917dd5c29e56e49c4b05402066aece18c9fe6579418122d0ad11788",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c004/det/det_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c004\\det\\det_ssd512.txt",
+    "bytes": 597031,
+    "sha256": "b402a667c658fb4b73ca0a1b1ef218de03302206ff9b78430ebeaf465747079f",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c004/det/det_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c004\\det\\det_yolo3.txt",
+    "bytes": 663854,
+    "sha256": "4940c0d8d25b4824d7aa91027e0b58f0cdea252f10cb0adcf13c862bc7f43d30",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c004/gt/gt.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c004\\gt\\gt.txt",
+    "bytes": 211639,
+    "sha256": "439349fd5abb7aa4ca54aac2c582557b3fe4b7e504bc2fae18a107b58fb8c18a",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c004/mtsc/mtsc_deepsort_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c004\\mtsc\\mtsc_deepsort_mask_rcnn.txt",
+    "bytes": 832027,
+    "sha256": "f53f3be9e094023df7374f3fd58051aa67a55957c1c75347a2773f0ae3edcfd7",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c004/mtsc/mtsc_deepsort_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c004\\mtsc\\mtsc_deepsort_ssd512.txt",
+    "bytes": 413184,
+    "sha256": "d7488766122582ff9b733286225b78ab33c088799b86dfbfadb5af6b0fb2418d",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c004/mtsc/mtsc_deepsort_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c004\\mtsc\\mtsc_deepsort_yolo3.txt",
+    "bytes": 564967,
+    "sha256": "f74aa17402242e686ef3108304841adfc4cb7e19ab33f0c3443e9adcaf61a836",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c004/mtsc/mtsc_moana_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c004\\mtsc\\mtsc_moana_mask_rcnn.txt",
+    "bytes": 670980,
+    "sha256": "44977b7994cdb1ccc32733d8d6b36a5e2588aab2da03dc98c9dcb13f267b2862",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c004/mtsc/mtsc_moana_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c004\\mtsc\\mtsc_moana_ssd512.txt",
+    "bytes": 434129,
+    "sha256": "65e8b975ea995f45ce490bcc4cbb8ee1d4d6affa38d0097756a1ad2cfb4110a7",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c004/mtsc/mtsc_moana_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c004\\mtsc\\mtsc_moana_yolo3.txt",
+    "bytes": 628625,
+    "sha256": "beff3aa6db3410376261a4485beb16ad1cbd2fe3ed03ec817f7a402956ddc408",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c004/mtsc/mtsc_tc_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c004\\mtsc\\mtsc_tc_mask_rcnn.txt",
+    "bytes": 660943,
+    "sha256": "d149309ac93f8622290b0798f23ac05d223bcde094cff3a04c51c32a80a9f75f",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c004/mtsc/mtsc_tc_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c004\\mtsc\\mtsc_tc_ssd512.txt",
+    "bytes": 389166,
+    "sha256": "41586ab3721c447f9740421ab249e850771f1a1563b31b5564af7aaf8894fb2a",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c004/mtsc/mtsc_tc_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c004\\mtsc\\mtsc_tc_yolo3.txt",
+    "bytes": 558427,
+    "sha256": "3afb9cf9b61d2a6a309d22cb2b16a332e4a0bfb1d1b78c5b4b30f691b250041e",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c004/segm/segm_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c004\\segm\\segm_mask_rcnn.txt",
+    "bytes": 6728792,
+    "sha256": "5860dc56ae64a864cb95877b01198c921802ee54b786c4637cfbbbccd1d85ccc",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "processed/accmpeg_importance_cache/vdo_02424a63c95e.npz",
+    "source": "F:\\paper\\code\\video_analysis\\data\\accmpeg_importance_cache\\vdo_02424a63c95e.npz",
+    "bytes": 27762548,
+    "sha256": "59e18fe285af18e8b2b3243ce0cf7802960c3ee4c88f8f12a8ca8bfd5274b9b9",
+    "role": "default_15_WD_cache"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c034/calibration.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c034\\calibration.txt",
+    "bytes": 227,
+    "sha256": "cbf38fd8468cd657f4960d77cbc2ad560552434e687b4ca7cf09f605218a7dff",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c034/roi.jpg",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c034\\roi.jpg",
+    "bytes": 50409,
+    "sha256": "f4286d66a0bb06724948750e932c69ef22e590c2b735b2525b1849a6d090ad61",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c034/vdo.avi",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c034\\vdo.avi",
+    "bytes": 56018934,
+    "sha256": "084e3f7cfe0af4a190457063630b9c4f63bc74040c78d96ccf6182dfaf679eec",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c034/det/det_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c034\\det\\det_mask_rcnn.txt",
+    "bytes": 665193,
+    "sha256": "3a53f0273248672b135f9c39c5561e2d7c685350c29e57e692b75959d66c718d",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c034/det/det_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c034\\det\\det_ssd512.txt",
+    "bytes": 485113,
+    "sha256": "da808d391964cbe9eda295471f5927a2917a9a3d4d239b555ca96de3d80eae48",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c034/det/det_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c034\\det\\det_yolo3.txt",
+    "bytes": 318400,
+    "sha256": "d1b61c8df7150c342cd94a5bec93ba88574dd9adf046a5f8abf62c19864ff086",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c034/gt/gt.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c034\\gt\\gt.txt",
+    "bytes": 90324,
+    "sha256": "1621c34e561ec52ba811b327c3517dcb48f35a6bd75e4932ee0174c25f482da9",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c034/mtsc/mtsc_deepsort_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c034\\mtsc\\mtsc_deepsort_mask_rcnn.txt",
+    "bytes": 409412,
+    "sha256": "df5d0a56c2618de1bb1449579e284586b72affdfddcffad0ca2551285a922f32",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c034/mtsc/mtsc_deepsort_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c034\\mtsc\\mtsc_deepsort_ssd512.txt",
+    "bytes": 333487,
+    "sha256": "171e5199f7124134fdd19fdc113d86a3a5d20069232e1df1e540f911c54cbd67",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c034/mtsc/mtsc_deepsort_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c034\\mtsc\\mtsc_deepsort_yolo3.txt",
+    "bytes": 264510,
+    "sha256": "429b81be924d748faaaa9b88537921b26398a96de99f591fbf5f831213defbd2",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c034/mtsc/mtsc_moana_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c034\\mtsc\\mtsc_moana_mask_rcnn.txt",
+    "bytes": 386244,
+    "sha256": "f5fa76898c070dbdfeadf7d84f2c264736a2b40eed72cfdc2d00c324f1ca9d6b",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c034/mtsc/mtsc_moana_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c034\\mtsc\\mtsc_moana_ssd512.txt",
+    "bytes": 328577,
+    "sha256": "00075bf3298439f46112bf95c79ff8a85acb80ca6c67f64a617d6be22506f952",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c034/mtsc/mtsc_moana_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c034\\mtsc\\mtsc_moana_yolo3.txt",
+    "bytes": 282530,
+    "sha256": "d6917b1f9d207d11ca170342a5f1c0d5bfb05cb6c9e64bddd0abf6bb9aeedfd9",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c034/mtsc/mtsc_tc_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c034\\mtsc\\mtsc_tc_mask_rcnn.txt",
+    "bytes": 356258,
+    "sha256": "c65e299f72f6cf60759d7f9a301c9144798054de04ad1e77725936712a3e23fa",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c034/mtsc/mtsc_tc_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c034\\mtsc\\mtsc_tc_ssd512.txt",
+    "bytes": 314159,
+    "sha256": "29251610673dc3ce0e9cc0b55825e96d69646cdbfe05d913cd860da35c12efa7",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c034/mtsc/mtsc_tc_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c034\\mtsc\\mtsc_tc_yolo3.txt",
+    "bytes": 269983,
+    "sha256": "43ccce055473212321e51aa32cb8934a31cd4a0e4723461b678bd5ad4c0e8226",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c034/segm/segm_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c034\\segm\\segm_mask_rcnn.txt",
+    "bytes": 4740351,
+    "sha256": "f51687be23b21fef4caac64bb4678c8eef067a2bb5fda030ab7798c881bff731",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "processed/accmpeg_importance_cache/vdo_15200d6b480c.npz",
+    "source": "F:\\paper\\code\\video_analysis\\data\\accmpeg_importance_cache\\vdo_15200d6b480c.npz",
+    "bytes": 5512139,
+    "sha256": "62b9f0d16fb8342ed110941c5bc7f3619ca036bb379d71aa65a3a9245ec71d6a",
+    "role": "default_15_WD_cache"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c022/calibration.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c022\\calibration.txt",
+    "bytes": 229,
+    "sha256": "593c80fd86b1f3079a7d65408e2cdb18b6dae31a64b984c06f85f2d125da9ab0",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c022/roi.jpg",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c022\\roi.jpg",
+    "bytes": 43179,
+    "sha256": "2cf162d319b64c7cb4dc2391300f01dc9660390468f4cf768bfb506a0dc8dc0f",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c022/vdo.avi",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c022\\vdo.avi",
+    "bytes": 37061476,
+    "sha256": "ca9e0e9bfeb407f80d2ecbeccbada50d7623a4fa1a8099e78048dd8af064b14a",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c022/det/det_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c022\\det\\det_mask_rcnn.txt",
+    "bytes": 90829,
+    "sha256": "7397b545e7d24aeba7f625daa198488b27906474f81bbdb4a8ef77fea79f8fc0",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c022/det/det_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c022\\det\\det_ssd512.txt",
+    "bytes": 50535,
+    "sha256": "cdad0f7dc288a73c7c176c5ce764e31e36d5413cd06e4c2be0db47728b305898",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c022/det/det_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c022\\det\\det_yolo3.txt",
+    "bytes": 66065,
+    "sha256": "178e26754063f233559021ffcdff21024653b5d4ba921cf5634d991303385846",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c022/gt/gt.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c022\\gt\\gt.txt",
+    "bytes": 21764,
+    "sha256": "d19f6693d7cb6b97cc26b00decb0d1e647d28e05b336d4555ec4e5f21343a71b",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c022/mtsc/mtsc_deepsort_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c022\\mtsc\\mtsc_deepsort_mask_rcnn.txt",
+    "bytes": 63351,
+    "sha256": "73ce984b59016a09f51b7df2ccc2eb46f4cf962b918f754c6c67d2b16fc0ad6a",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c022/mtsc/mtsc_deepsort_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c022\\mtsc\\mtsc_deepsort_ssd512.txt",
+    "bytes": 37561,
+    "sha256": "1c10c5b3c94c8658237558caa6b3eed84cd124a19d1dd69685f3b12b52004726",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c022/mtsc/mtsc_deepsort_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c022\\mtsc\\mtsc_deepsort_yolo3.txt",
+    "bytes": 54279,
+    "sha256": "5655501113079418d975c888d315bf376a064619a74afcbb054be6cabcdedaee",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c022/mtsc/mtsc_moana_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c022\\mtsc\\mtsc_moana_mask_rcnn.txt",
+    "bytes": 66857,
+    "sha256": "4f0a7315507c78cb2a5624b20596e8c84a851cf342ba1e8843a2cf356a3706d8",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c022/mtsc/mtsc_moana_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c022\\mtsc\\mtsc_moana_ssd512.txt",
+    "bytes": 41397,
+    "sha256": "63a602dcc5a3743584372efb57ee86c3c033b3c0e1f06c3ac4642d53188deaff",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c022/mtsc/mtsc_moana_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c022\\mtsc\\mtsc_moana_yolo3.txt",
+    "bytes": 58911,
+    "sha256": "f3fd3558dadbf78f0054854a070f5297ff9654a92ffef9f6bc4f4e6cb6d6d7fe",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c022/mtsc/mtsc_tc_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c022\\mtsc\\mtsc_tc_mask_rcnn.txt",
+    "bytes": 61034,
+    "sha256": "5aa92646165bcd6a7656baad86f100543c39625fea4d6b5afc9b7108c1af2ae2",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c022/mtsc/mtsc_tc_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c022\\mtsc\\mtsc_tc_ssd512.txt",
+    "bytes": 35998,
+    "sha256": "63d1c39fc3a4fe1a79e6c76808cc372c95918e80e199db19ce780be55748fb4f",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c022/mtsc/mtsc_tc_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c022\\mtsc\\mtsc_tc_yolo3.txt",
+    "bytes": 53799,
+    "sha256": "3058448a9cc10a9aea67b13f4b78b60617510e6b2bd6ec05f5120353e92bfe37",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c022/segm/segm_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c022\\segm\\segm_mask_rcnn.txt",
+    "bytes": 485501,
+    "sha256": "eab77b2e5f21a0be417587a287a2e22e9feae6a9b26b5d2c79a08a6795e90b6f",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "processed/accmpeg_importance_cache/vdo_1e3119bd22c3.npz",
+    "source": "F:\\paper\\code\\video_analysis\\data\\accmpeg_importance_cache\\vdo_1e3119bd22c3.npz",
+    "bytes": 4067397,
+    "sha256": "b63b80d5cc85b8b2ad3db28e38694e5893f1f24e3c9a72169113a28d829bc285",
+    "role": "default_15_WD_cache"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c021/calibration.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c021\\calibration.txt",
+    "bytes": 231,
+    "sha256": "7f33e8eb9adca12fe73906cb1d501ba7e9b78c35d642f09a1f02c2b7628cb21f",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c021/roi.jpg",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c021\\roi.jpg",
+    "bytes": 43373,
+    "sha256": "7722dd1fcc66c86086c273cc7db49848da63e7a9318ce6488ca4ad9565e4217a",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c021/vdo.avi",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c021\\vdo.avi",
+    "bytes": 25437868,
+    "sha256": "dfd920fbdf149699fa379db752f2b39fe5888f0aff98f6385634c8d2fed83ab8",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c021/det/det_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c021\\det\\det_mask_rcnn.txt",
+    "bytes": 190548,
+    "sha256": "eaa8222e683d2458781e35d57b6113728745fd5e0fc37c99a9c51b642c5a7b68",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c021/det/det_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c021\\det\\det_ssd512.txt",
+    "bytes": 142667,
+    "sha256": "126b2286514d391a5f36d0ec3eb636d2aa3a3ac83b14c13b165f86d879215f48",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c021/det/det_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c021\\det\\det_yolo3.txt",
+    "bytes": 125641,
+    "sha256": "7d5441baf703317c8475f991de0eee0167ec0e325cf5a6ba24f5955ee9cd2226",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c021/gt/gt.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c021\\gt\\gt.txt",
+    "bytes": 16104,
+    "sha256": "d598764ab9fdd95cafabb788b586ac4d85501acb0b73823a9161da84ddffd522",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c021/mtsc/mtsc_deepsort_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c021\\mtsc\\mtsc_deepsort_mask_rcnn.txt",
+    "bytes": 132429,
+    "sha256": "027ff3dd1d3e25c49d9e2e1d3b33edfa7ccddf98fbf93582191f799291081e9f",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c021/mtsc/mtsc_deepsort_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c021\\mtsc\\mtsc_deepsort_ssd512.txt",
+    "bytes": 105278,
+    "sha256": "ae12c34d339ff3a8ca9c3280993946a40b3cefdc749dad9d0a236970b4b45cfe",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c021/mtsc/mtsc_deepsort_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c021\\mtsc\\mtsc_deepsort_yolo3.txt",
+    "bytes": 104424,
+    "sha256": "f21895d2ef2070ba972cdba4410abc6024c5398cb909be7c7d90b157112f174b",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c021/mtsc/mtsc_moana_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c021\\mtsc\\mtsc_moana_mask_rcnn.txt",
+    "bytes": 130965,
+    "sha256": "6f5784dbd7419f8eabae3a95ad7f0853750dda6ad095532270a95670a0f36697",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c021/mtsc/mtsc_moana_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c021\\mtsc\\mtsc_moana_ssd512.txt",
+    "bytes": 112908,
+    "sha256": "25233c835b101b69876ec50da907800c93c489e8260f9bbbefe3e31785d97a56",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c021/mtsc/mtsc_moana_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c021\\mtsc\\mtsc_moana_yolo3.txt",
+    "bytes": 113073,
+    "sha256": "3796d8c1d809226488a3c127aa0502773f762b21cb0feea77970fddfefd0567e",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c021/mtsc/mtsc_tc_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c021\\mtsc\\mtsc_tc_mask_rcnn.txt",
+    "bytes": 132652,
+    "sha256": "f8007e26c936e0e45491012cc31f7460a5ec9e6d7a793f7edaaa947478640b8c",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c021/mtsc/mtsc_tc_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c021\\mtsc\\mtsc_tc_ssd512.txt",
+    "bytes": 108013,
+    "sha256": "c0aa0624ec8a0c75b7fae53172faa30678ddd355aa0b27617de5e09a708707c1",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c021/mtsc/mtsc_tc_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c021\\mtsc\\mtsc_tc_yolo3.txt",
+    "bytes": 102828,
+    "sha256": "36f4e325e3ee1d6b413139d8c785732fa78a675ed2347cd15e097cf572a3b239",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c021/segm/segm_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c021\\segm\\segm_mask_rcnn.txt",
+    "bytes": 1465899,
+    "sha256": "fe4e7db31f8fe8524ab21239a032bd78c5d8e3535b0c9b9b04769b13bd2cc357",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "processed/accmpeg_importance_cache/vdo_1e31dfc7f448.npz",
+    "source": "F:\\paper\\code\\video_analysis\\data\\accmpeg_importance_cache\\vdo_1e31dfc7f448.npz",
+    "bytes": 4092746,
+    "sha256": "e7160e5d302e3117a291949b06ab9b6f45e1acf24caf901c6f85214e0b2b3140",
+    "role": "default_15_WD_cache"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c032/calibration.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c032\\calibration.txt",
+    "bytes": 229,
+    "sha256": "ed0300ead24564be04fe88627b7d8e3b4172c4db8b6471b720815b666ef5e0ef",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c032/roi.jpg",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c032\\roi.jpg",
+    "bytes": 37020,
+    "sha256": "34e3559da5ddb17cfbdb146edc3534e02432dfa04f5f50fc97cf460de80e799b",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c032/vdo.avi",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c032\\vdo.avi",
+    "bytes": 43814646,
+    "sha256": "03fcbc17b0b08ab55c0ac0e56b4eff5278084e6d61c1c97d6878d34e02131c22",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c032/det/det_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c032\\det\\det_mask_rcnn.txt",
+    "bytes": 645857,
+    "sha256": "d01695ad1c2562c3d07d95bce4b4e60377aedb48e147560bef036242d9490b44",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c032/det/det_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c032\\det\\det_ssd512.txt",
+    "bytes": 242031,
+    "sha256": "1170c4182d14d7fece428559eff9db131da0dcddc8dd74b9e313a7f854e245ae",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c032/det/det_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c032\\det\\det_yolo3.txt",
+    "bytes": 347786,
+    "sha256": "64a239c63775cfbe905ddedecf3266888db44e7db5a9d04021a1d05c601c45dd",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c032/gt/gt.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c032\\gt\\gt.txt",
+    "bytes": 50906,
+    "sha256": "226c2bdde810164d012ce0b5ec20fbd97244dc4d02c08b093d6e2ac4114cd4f6",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c032/mtsc/mtsc_deepsort_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c032\\mtsc\\mtsc_deepsort_mask_rcnn.txt",
+    "bytes": 521227,
+    "sha256": "8a7b9b9e9c3d07bee191f937cad241d8de31e7226aee66ccf5ddbbcbb1a2d00c",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c032/mtsc/mtsc_deepsort_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c032\\mtsc\\mtsc_deepsort_ssd512.txt",
+    "bytes": 160120,
+    "sha256": "5cdb5adff47cc35650705e7e9980499facb324cc2a92cb4792ec8eb9a530fe21",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c032/mtsc/mtsc_deepsort_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c032\\mtsc\\mtsc_deepsort_yolo3.txt",
+    "bytes": 280180,
+    "sha256": "4d25c0341c19c29ada414c42f53d01c016f0409c7f06025d0ce4bd862a10dd50",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c032/mtsc/mtsc_moana_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c032\\mtsc\\mtsc_moana_mask_rcnn.txt",
+    "bytes": 429220,
+    "sha256": "018c4e1d5eb17053e09b3c213cecd18e34837ad33fb30a116f473e19635b8cdb",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c032/mtsc/mtsc_moana_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c032\\mtsc\\mtsc_moana_ssd512.txt",
+    "bytes": 159372,
+    "sha256": "40869c352ec1348a39238c43aa9c94873805644f3dc9e88da9b3138593e1116d",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c032/mtsc/mtsc_moana_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c032\\mtsc\\mtsc_moana_yolo3.txt",
+    "bytes": 321188,
+    "sha256": "6cf35c743328c05c0e345bb2f13d20d502a67c4a870e496eafa8ce65ea7a665c",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c032/mtsc/mtsc_tc_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c032\\mtsc\\mtsc_tc_mask_rcnn.txt",
+    "bytes": 414186,
+    "sha256": "ed87a64b7d3bd1de358ee28bf0556f3a6e7a505e0120e8f0a1ff81705baa3fa4",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c032/mtsc/mtsc_tc_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c032\\mtsc\\mtsc_tc_ssd512.txt",
+    "bytes": 143072,
+    "sha256": "a6bb8d118f869d95e3b9725f1dd78fa784923a58fd23c23b54106dab43e4f21c",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c032/mtsc/mtsc_tc_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c032\\mtsc\\mtsc_tc_yolo3.txt",
+    "bytes": 292024,
+    "sha256": "163e45eec2055334f068447279bb492dced407d8289aee7bbb9f161e1656a6cd",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c032/segm/segm_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c032\\segm\\segm_mask_rcnn.txt",
+    "bytes": 2414204,
+    "sha256": "17c76c1f4047ee848acfdae9f00b78147aa00cffc0a1b6d6d76fad340218e503",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "processed/accmpeg_importance_cache/vdo_20bed7e47d1f.npz",
+    "source": "F:\\paper\\code\\video_analysis\\data\\accmpeg_importance_cache\\vdo_20bed7e47d1f.npz",
+    "bytes": 8418702,
+    "sha256": "e9d97071e5da90df2c01b94b6489f956b58e6323e8123c180bf8b8f5ec78ada1",
+    "role": "default_15_WD_cache"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c030/calibration.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c030\\calibration.txt",
+    "bytes": 228,
+    "sha256": "48960bf0ecc1f013792499b7bbe84e33c40d8bb9a6979f745ca19ffcc516f514",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c030/roi.jpg",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c030\\roi.jpg",
+    "bytes": 42327,
+    "sha256": "e5857811b20785d59df42799df4e9c58eb942ab8fc98795a81bb5fc173d661b0",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c030/vdo.avi",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c030\\vdo.avi",
+    "bytes": 46753800,
+    "sha256": "6cddff4a1a926c57a811fdeb2196fa23dc53472c2572578c40db232de01180a8",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c030/det/det_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c030\\det\\det_mask_rcnn.txt",
+    "bytes": 656469,
+    "sha256": "c672a7df18d45b312f45a84db8aade6295d3b29760e082e2ff40b891356b7ccf",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c030/det/det_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c030\\det\\det_ssd512.txt",
+    "bytes": 180546,
+    "sha256": "658f80d13957f7f7752100d4609a3b911b0e632fcc94d72960f8e2b9f39a2568",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c030/det/det_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c030\\det\\det_yolo3.txt",
+    "bytes": 398099,
+    "sha256": "2111d4c634896fa88b9302d6b9ed043b7ea9a31daa26c4e71dfde019e5b7dc52",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c030/gt/gt.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c030\\gt\\gt.txt",
+    "bytes": 55007,
+    "sha256": "35fde3c468a158cd305a727381115d374c976e1b9fb2a6a16f784451b14582ee",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c030/mtsc/mtsc_deepsort_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c030\\mtsc\\mtsc_deepsort_mask_rcnn.txt",
+    "bytes": 468187,
+    "sha256": "2bdda7da3d0136216015ae9843e02f2d8473efa806422da2830c43f1fca79812",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c030/mtsc/mtsc_deepsort_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c030\\mtsc\\mtsc_deepsort_ssd512.txt",
+    "bytes": 139373,
+    "sha256": "894afd4ccca5c3a6fbe0fe917932351d6a1c4cdbc7996e3fbaa704069fd4c929",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c030/mtsc/mtsc_deepsort_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c030\\mtsc\\mtsc_deepsort_yolo3.txt",
+    "bytes": 334364,
+    "sha256": "8d3b679c49788560bb779bebdf3c0b2f056589b331b224e5f28f1139c1c0b53f",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c030/mtsc/mtsc_moana_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c030\\mtsc\\mtsc_moana_mask_rcnn.txt",
+    "bytes": 435340,
+    "sha256": "8b9fa98deda967d443dfd0e87451c76f45a4b6c5d27ffc9895c93763e918dbf3",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c030/mtsc/mtsc_moana_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c030\\mtsc\\mtsc_moana_ssd512.txt",
+    "bytes": 156316,
+    "sha256": "5441a062eab85dfd510d657b73c7c8f968c0b5358168652cf65318c69b648074",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c030/mtsc/mtsc_moana_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c030\\mtsc\\mtsc_moana_yolo3.txt",
+    "bytes": 355855,
+    "sha256": "a47b4af9095fe24c6ddc312819cc6942b7570d06114027348e7c9cb70fdda568",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c030/mtsc/mtsc_tc_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c030\\mtsc\\mtsc_tc_mask_rcnn.txt",
+    "bytes": 438158,
+    "sha256": "15016d4220950b800e1592527ce6f8c266f7defa5f45e3895d2e0cf6575be74f",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c030/mtsc/mtsc_tc_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c030\\mtsc\\mtsc_tc_ssd512.txt",
+    "bytes": 136087,
+    "sha256": "0749ee24dd00d1883e7fb8acea0a98d8441380be370e8ec8b986f84b52dc8882",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c030/mtsc/mtsc_tc_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c030\\mtsc\\mtsc_tc_yolo3.txt",
+    "bytes": 344045,
+    "sha256": "9332b781b15bc8aa9335ae3c8512a6ef9b0148456fecca19f4f958a1fddfcb32",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c030/segm/segm_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c030\\segm\\segm_mask_rcnn.txt",
+    "bytes": 3039795,
+    "sha256": "d7b051d20338a138f230872a905572c1c1ee913a2c52e305654adcc2951d3343",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "processed/accmpeg_importance_cache/vdo_211a23d7dbdc.npz",
+    "source": "F:\\paper\\code\\video_analysis\\data\\accmpeg_importance_cache\\vdo_211a23d7dbdc.npz",
+    "bytes": 8480670,
+    "sha256": "3bca12278b2e0ac85f551d960f0e104c851e0df86997e7fbe45078373eec5041",
+    "role": "default_15_WD_cache"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c023/calibration.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c023\\calibration.txt",
+    "bytes": 231,
+    "sha256": "64e9b62d9fd8d81b9f273bee3527c53615ffb8f124b9255673e9c0e4d83419e9",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c023/roi.jpg",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c023\\roi.jpg",
+    "bytes": 83760,
+    "sha256": "59a0e93954031d6bbba6c347713d3d4f31c0277d9d2eba26e9d71b6eabb7ae91",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c023/vdo.avi",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c023\\vdo.avi",
+    "bytes": 94191484,
+    "sha256": "9b2c2ffdc93cc88e9d1c0b67e0159b1fc304f7d4905103be08197d59f0775ac1",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c023/det/det_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c023\\det\\det_mask_rcnn.txt",
+    "bytes": 286054,
+    "sha256": "f3011da929aec96d2e67ff92a1530240f668c48c40972cf071c7ea221d8c7057",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c023/det/det_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c023\\det\\det_ssd512.txt",
+    "bytes": 191078,
+    "sha256": "0e0e84fa0dd58ee0b9873a57e35f3445ebb3e0095d8df5f60ed756be4bc93b0e",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c023/det/det_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c023\\det\\det_yolo3.txt",
+    "bytes": 217441,
+    "sha256": "4a2507ecf8b1d970ce9394c35d3439ec619c9dcf9b173a54275bbc68dcfa4b3b",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c023/gt/gt.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c023\\gt\\gt.txt",
+    "bytes": 23013,
+    "sha256": "452ddcf3e4febce8b9e7814e4a1489826de4d58030de7fa8c7d33d1a0a962f05",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c023/mtsc/mtsc_deepsort_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c023\\mtsc\\mtsc_deepsort_mask_rcnn.txt",
+    "bytes": 230371,
+    "sha256": "7c15848df8441d8727b8d6f6878279a9a9d5d9df8e7e125fea33a5965b5b0b9c",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c023/mtsc/mtsc_deepsort_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c023\\mtsc\\mtsc_deepsort_ssd512.txt",
+    "bytes": 157574,
+    "sha256": "77c59f2f662231dd0deefa223d5aad5e929408d03df9ae67a552972c2b313701",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c023/mtsc/mtsc_deepsort_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c023\\mtsc\\mtsc_deepsort_yolo3.txt",
+    "bytes": 182227,
+    "sha256": "4770a84a3c174d33d8406971615079b32b7ed47e84c755f2005b9ba9eded34a5",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c023/mtsc/mtsc_moana_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c023\\mtsc\\mtsc_moana_mask_rcnn.txt",
+    "bytes": 207314,
+    "sha256": "dd4abfd161a244c46346245f1b1a8e67009b030394512ac85287001ae89c4b45",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c023/mtsc/mtsc_moana_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c023\\mtsc\\mtsc_moana_ssd512.txt",
+    "bytes": 148677,
+    "sha256": "b1138f3289b6c9217b2b6270f574715430c3093452b5edb77bd728c26e394add",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c023/mtsc/mtsc_moana_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c023\\mtsc\\mtsc_moana_yolo3.txt",
+    "bytes": 181600,
+    "sha256": "50bc17562eb78e5ebee47bae4c4f2db451a5ed69b9ab295a98efc9884c78532d",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c023/mtsc/mtsc_tc_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c023\\mtsc\\mtsc_tc_mask_rcnn.txt",
+    "bytes": 195199,
+    "sha256": "728d60a42f152a21588ed94d78e510dda6dfa359718ab215fe19a69d2bfc0f51",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c023/mtsc/mtsc_tc_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c023\\mtsc\\mtsc_tc_ssd512.txt",
+    "bytes": 149188,
+    "sha256": "85318a1ba07e69d7bb2ecf8c4a01cf1545c146096bde28f20be7e58ba0912705",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c023/mtsc/mtsc_tc_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c023\\mtsc\\mtsc_tc_yolo3.txt",
+    "bytes": 188962,
+    "sha256": "5e000c3b2601478834f1295348f7ce53d47797b6e2d9b42f8b96a57c9659aa82",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c023/segm/segm_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c023\\segm\\segm_mask_rcnn.txt",
+    "bytes": 1637753,
+    "sha256": "10b4e94271f594c589f95e40ea4742b0ce83833828a80b7b73ebf8da3e97fdff",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "processed/accmpeg_importance_cache/vdo_25af2a36c222.npz",
+    "source": "F:\\paper\\code\\video_analysis\\data\\accmpeg_importance_cache\\vdo_25af2a36c222.npz",
+    "bytes": 8121274,
+    "sha256": "c1cdab593f01621dc909d8e293a832615eee83a0ed00acbadc4481715ac61078",
+    "role": "default_15_WD_cache"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c039/calibration.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c039\\calibration.txt",
+    "bytes": 229,
+    "sha256": "1e67a0afc059fceecd815d62b1f92992491e53d3be1471ee3f45f1bbeb7954e0",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c039/roi.jpg",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c039\\roi.jpg",
+    "bytes": 65009,
+    "sha256": "4a12ec8f02eb831305abd6efde404365cc7265102c2e30654e24b5e9ee378e24",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c039/vdo.avi",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c039\\vdo.avi",
+    "bytes": 119915818,
+    "sha256": "fb26edeedb8f84986341461333cbcc37827e642d23ba47a660ffffbf77a9a6a9",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c039/det/det_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c039\\det\\det_mask_rcnn.txt",
+    "bytes": 114595,
+    "sha256": "160c537e9d788e6472a7fab2da6a9575ca95884205a8ab3968a995fbfa7854cd",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c039/det/det_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c039\\det\\det_ssd512.txt",
+    "bytes": 89778,
+    "sha256": "f7d70275217091b2c55829f23fb0203e7a50a6b983b28d7dccad755c22a8fb2b",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c039/det/det_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c039\\det\\det_yolo3.txt",
+    "bytes": 52891,
+    "sha256": "72c0dee55855d576d3780fb643466d70a725e96b220746822cd246c8d1216eed",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c039/gt/gt.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c039\\gt\\gt.txt",
+    "bytes": 14973,
+    "sha256": "b004183a64f55776966d1ae34f3689fde5c07c15beac7749478051ff1242069a",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c039/mtsc/mtsc_deepsort_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c039\\mtsc\\mtsc_deepsort_mask_rcnn.txt",
+    "bytes": 68684,
+    "sha256": "22dc6892f89d2d0347561c2645c7bca9d412c1fd972c042b88915f2bbcc8cbbd",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c039/mtsc/mtsc_deepsort_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c039\\mtsc\\mtsc_deepsort_ssd512.txt",
+    "bytes": 66769,
+    "sha256": "9928377ecb9ce1247dabae94a6b60dd4d064f74fe84f523de3d63bda7e0cea57",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c039/mtsc/mtsc_deepsort_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c039\\mtsc\\mtsc_deepsort_yolo3.txt",
+    "bytes": 41930,
+    "sha256": "920718abc86c3ca6f26eca0eeb6fc01a76a71a03fbb0579b6c2ab7a798b86ca3",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c039/mtsc/mtsc_moana_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c039\\mtsc\\mtsc_moana_mask_rcnn.txt",
+    "bytes": 65340,
+    "sha256": "5e1caefd4d46d58cd2397bb993359cca6e584fa1689c780ac513e9a386a3af56",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c039/mtsc/mtsc_moana_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c039\\mtsc\\mtsc_moana_ssd512.txt",
+    "bytes": 73824,
+    "sha256": "5d1d86edef726efa9c0581a02c74246af1f31d7a6194d66c82eaa1db106d122f",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c039/mtsc/mtsc_moana_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c039\\mtsc\\mtsc_moana_yolo3.txt",
+    "bytes": 47787,
+    "sha256": "1f5c494b7f4b3590fcdd95475707dc177824d610df532c20d7be4600dbaec8bc",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c039/mtsc/mtsc_tc_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c039\\mtsc\\mtsc_tc_mask_rcnn.txt",
+    "bytes": 46711,
+    "sha256": "d9617305d499ef52d775e920f26243a571c93c9d32e2620b62a2af6d9fad1387",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c039/mtsc/mtsc_tc_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c039\\mtsc\\mtsc_tc_ssd512.txt",
+    "bytes": 60171,
+    "sha256": "622618cbbe65d2403ec133d1e3637644c30d1f890ea6873ffc27e1cb8834c925",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c039/mtsc/mtsc_tc_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c039\\mtsc\\mtsc_tc_yolo3.txt",
+    "bytes": 37251,
+    "sha256": "90b9e09509d614a810e0d4bda61418ea07977edb0595a458f6ee6caa498a1691",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c039/segm/segm_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c039\\segm\\segm_mask_rcnn.txt",
+    "bytes": 1198533,
+    "sha256": "dc06d9d62b0846a069ded0eb732291312d93bc5e55b988466cf2fcb4c1787722",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "processed/accmpeg_importance_cache/vdo_299f17dc4024.npz",
+    "source": "F:\\paper\\code\\video_analysis\\data\\accmpeg_importance_cache\\vdo_299f17dc4024.npz",
+    "bytes": 6164258,
+    "sha256": "de816602350806b23236d7ad38cf115770fc396535cadde070ff0483999dadf4",
+    "role": "default_15_WD_cache"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c031/calibration.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c031\\calibration.txt",
+    "bytes": 228,
+    "sha256": "550e224c5b6972f51be1ba302deb467e2b2cae31ed70ee7f513bf08e81d03d12",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c031/roi.jpg",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c031\\roi.jpg",
+    "bytes": 27174,
+    "sha256": "10d5d8f6c986af79d4deba1ba1e7b872a69c570dd7138f206e32e016d1d1ac28",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c031/vdo.avi",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c031\\vdo.avi",
+    "bytes": 57025770,
+    "sha256": "b31e14999238714e24fa89f5cb78aa96eb4354d2bcaf8cd5773a26f3c59b0e7e",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c031/det/det_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c031\\det\\det_mask_rcnn.txt",
+    "bytes": 1970100,
+    "sha256": "18043fc75bf791ee4b35d1c26f75adb968f88257c98ea12f3531f7dc2a432c88",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c031/det/det_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c031\\det\\det_ssd512.txt",
+    "bytes": 1457465,
+    "sha256": "c9c03bd2da40020054b50c88e577bbb1425c927e2528bae29b9d545642cdca73",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c031/det/det_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c031\\det\\det_yolo3.txt",
+    "bytes": 1135730,
+    "sha256": "8d08e8477ce5a862b16b6382ae1296b973793d09b987025dfcd95a2ece60aaeb",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c031/gt/gt.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c031\\gt\\gt.txt",
+    "bytes": 6849,
+    "sha256": "bddfc7f91481cb719153b4a48dc3654fa469ca59f2b84847aca138ae0b999413",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c031/mtsc/mtsc_deepsort_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c031\\mtsc\\mtsc_deepsort_mask_rcnn.txt",
+    "bytes": 1525397,
+    "sha256": "c9f71b8e148abaf6e81125eea37be27d3b2d9c1a8178efc2f0712e3e966ea607",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c031/mtsc/mtsc_deepsort_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c031\\mtsc\\mtsc_deepsort_ssd512.txt",
+    "bytes": 1162747,
+    "sha256": "8d46822b9b8cb65abe5f0bf488fd477e6991592ecafdf9b4f560e7e1d615fabd",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c031/mtsc/mtsc_deepsort_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c031\\mtsc\\mtsc_deepsort_yolo3.txt",
+    "bytes": 936390,
+    "sha256": "3535e526e6ee16fd940c0b98dc558a0968c99258aab47f8a37a061619185d6c5",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c031/mtsc/mtsc_moana_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c031\\mtsc\\mtsc_moana_mask_rcnn.txt",
+    "bytes": 1332513,
+    "sha256": "77e94df2ca4ff5f5980611cc44e0ab389128711c59ac0429112aadc6d626db5f",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c031/mtsc/mtsc_moana_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c031\\mtsc\\mtsc_moana_ssd512.txt",
+    "bytes": 956543,
+    "sha256": "dc00d38c09cc6c5e6a8abde328f7f54781916879758fed7a471c75733942436d",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c031/mtsc/mtsc_moana_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c031\\mtsc\\mtsc_moana_yolo3.txt",
+    "bytes": 974570,
+    "sha256": "e8bdb661a97f317349f15174452784ce0a4e7c37815c8c661fd8b41f46f02085",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c031/mtsc/mtsc_tc_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c031\\mtsc\\mtsc_tc_mask_rcnn.txt",
+    "bytes": 1426953,
+    "sha256": "c6801b56dab3dc507a852a7ed34a848c431865c43b1cc1a8ffce962b8f565e73",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c031/mtsc/mtsc_tc_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c031\\mtsc\\mtsc_tc_ssd512.txt",
+    "bytes": 1005286,
+    "sha256": "b8e39f2decbbfc0833b8911a8d533fc2244ac7c5670058314e310f3526cb2a9b",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c031/mtsc/mtsc_tc_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c031\\mtsc\\mtsc_tc_yolo3.txt",
+    "bytes": 939773,
+    "sha256": "9f15e24b2114666425d3ebd7df5794f7b33fa7213c8c74f3e7b4389806e3bfa0",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c031/segm/segm_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c031\\segm\\segm_mask_rcnn.txt",
+    "bytes": 8917304,
+    "sha256": "11746bba15ef48fe6f680624e6841908965dbfeaec3b9edc6316d3cb9e9b1cb2",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "processed/accmpeg_importance_cache/vdo_2a42a16b778c.npz",
+    "source": "F:\\paper\\code\\video_analysis\\data\\accmpeg_importance_cache\\vdo_2a42a16b778c.npz",
+    "bytes": 8923820,
+    "sha256": "d7d3cee87f07717ce748141507e61376bd103f3789671960c61b7690d15fd54b",
+    "role": "default_15_WD_cache"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c001/calibration.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c001\\calibration.txt",
+    "bytes": 230,
+    "sha256": "5c8552e1c181513434c32120e331da4a9cf3548610f1042063a5453ffbceedba",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c001/roi.jpg",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c001\\roi.jpg",
+    "bytes": 29763,
+    "sha256": "266d7ec9aa1a48dd94ee846023a8b29ae887004222d8cd9da471e440e665d23b",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c001/vdo.avi",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c001\\vdo.avi",
+    "bytes": 141089430,
+    "sha256": "26ea031e0815409223beb2cfe854dfe78679e8881db6e92685f5e090fdf61b2f",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c001/det/det_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c001\\det\\det_mask_rcnn.txt",
+    "bytes": 1440727,
+    "sha256": "42143e54a5f8601143cc2400f59807f2261d867cf111735fb79f333d410b7b64",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c001/det/det_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c001\\det\\det_ssd512.txt",
+    "bytes": 643707,
+    "sha256": "6480198a1fc9be12117a0ebbbba304a2823e3204efd3dba208c276552550ed3f",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c001/det/det_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c001\\det\\det_yolo3.txt",
+    "bytes": 709059,
+    "sha256": "3a569d65fa973bc01cae0ffe7d91e1cac27e02f110d65fab34c357227fcbfd3b",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c001/gt/gt.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c001\\gt\\gt.txt",
+    "bytes": 117596,
+    "sha256": "618a8808b9520506adf660f7714707eec16df4ee35129043217f792e4c3d0599",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c001/mtsc/mtsc_deepsort_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c001\\mtsc\\mtsc_deepsort_mask_rcnn.txt",
+    "bytes": 1058159,
+    "sha256": "5b75c41ee8c43da18f34a3765b8282a8a7f830086311a1d0936c54410eff9b68",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c001/mtsc/mtsc_deepsort_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c001\\mtsc\\mtsc_deepsort_ssd512.txt",
+    "bytes": 513466,
+    "sha256": "1081e2914ffd16c773b16503c7eb3e66cc82f9d26fae31ec74251a71cda724a1",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c001/mtsc/mtsc_deepsort_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c001\\mtsc\\mtsc_deepsort_yolo3.txt",
+    "bytes": 595339,
+    "sha256": "1375fa426e3c4fff122d05ff3df962caa7a03eceeca97eb5f5529ed8aac10cce",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c001/mtsc/mtsc_moana_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c001\\mtsc\\mtsc_moana_mask_rcnn.txt",
+    "bytes": 1047902,
+    "sha256": "8320a06065f7d6752d8c21a424b11e565d2b6e8efdc7ce5724a4e85deaca75e4",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c001/mtsc/mtsc_moana_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c001\\mtsc\\mtsc_moana_ssd512.txt",
+    "bytes": 537661,
+    "sha256": "0c84463dce6347057cf0beba348509d7045ec6f934a748aeb74910e50888efc3",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c001/mtsc/mtsc_moana_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c001\\mtsc\\mtsc_moana_yolo3.txt",
+    "bytes": 660734,
+    "sha256": "7e0008f5302733fb98938dcd5116b6dd724e48d8e9ebc7bbf286eeafdfb8b69b",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c001/mtsc/mtsc_tc_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c001\\mtsc\\mtsc_tc_mask_rcnn.txt",
+    "bytes": 976201,
+    "sha256": "471a43a7be49dcc92c73de164716edd68569136fb4dcdb8800a997d7d2eafa67",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c001/mtsc/mtsc_tc_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c001\\mtsc\\mtsc_tc_ssd512.txt",
+    "bytes": 488526,
+    "sha256": "b0fa49e94d6431c0027417e26fa04e4090bd9da7c485ff136226afcb24e13e5b",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c001/mtsc/mtsc_tc_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c001\\mtsc\\mtsc_tc_yolo3.txt",
+    "bytes": 564830,
+    "sha256": "f66e440902f28cc66a83d769239e5ef96816f78d5010409ac5771f397403d416",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c001/segm/segm_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c001\\segm\\segm_mask_rcnn.txt",
+    "bytes": 7508025,
+    "sha256": "89af1ba197eeb56d1c04f9eb43f88e3e1bc9dd228a94ebc83f5372744549b1ea",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "processed/accmpeg_importance_cache/vdo_43b9e0515a01.npz",
+    "source": "F:\\paper\\code\\video_analysis\\data\\accmpeg_importance_cache\\vdo_43b9e0515a01.npz",
+    "bytes": 26027306,
+    "sha256": "097ca24ea5215be0c57c9f68d26909510ab531a4abe217fc14dd740aaa695f32",
+    "role": "default_15_WD_cache"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c038/calibration.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c038\\calibration.txt",
+    "bytes": 237,
+    "sha256": "705652a59b292981c861157ddbd6bfb547309153f6fca15ee1e4970d4ad8bd20",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c038/roi.jpg",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c038\\roi.jpg",
+    "bytes": 79847,
+    "sha256": "9afdf5d541b3b6fadeebabf6c5eec7e48b8d7b4386ae4b2b22b239f32c570069",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c038/vdo.avi",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c038\\vdo.avi",
+    "bytes": 91670272,
+    "sha256": "c02b3af846da115bc73b2a23114dbe18906b418d73614d209d5e437c02ccaf03",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c038/det/det_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c038\\det\\det_mask_rcnn.txt",
+    "bytes": 254987,
+    "sha256": "4f8f766f22d9c8993539a593e905e81d145d538b0f02d6b78f6d4a4b04162f9d",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c038/det/det_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c038\\det\\det_ssd512.txt",
+    "bytes": 107399,
+    "sha256": "fdb586e625fc64b6eef948bd4e89dafebe71e11abfc16513dba116511b8471ca",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c038/det/det_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c038\\det\\det_yolo3.txt",
+    "bytes": 125829,
+    "sha256": "65c02f9d3f1a84c4c21f85c5984259c77d0979d5ee8f03c50a07538223840412",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c038/gt/gt.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c038\\gt\\gt.txt",
+    "bytes": 37976,
+    "sha256": "e065295209664b014d092f3ef9d15517e72719959177aef3e086caf992318718",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c038/mtsc/mtsc_deepsort_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c038\\mtsc\\mtsc_deepsort_mask_rcnn.txt",
+    "bytes": 168829,
+    "sha256": "9fc067868bd5e3399dab685795a157ae1d70e00429d74ad1abd69dcdc26e52d6",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c038/mtsc/mtsc_deepsort_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c038\\mtsc\\mtsc_deepsort_ssd512.txt",
+    "bytes": 76046,
+    "sha256": "ade7902364391a1cfe0420984a460a84e535ff003007be3f8e34e70e0c540cf1",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c038/mtsc/mtsc_deepsort_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c038\\mtsc\\mtsc_deepsort_yolo3.txt",
+    "bytes": 104179,
+    "sha256": "524e495f9dbae746ae05463bf8ce750a8683df1d5ccfe15597c30379e3ad9d92",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c038/mtsc/mtsc_moana_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c038\\mtsc\\mtsc_moana_mask_rcnn.txt",
+    "bytes": 137626,
+    "sha256": "3e73496ce5ff53ee43c232b17a08d60bed716d61d096d45e0f7491d4ac7de523",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c038/mtsc/mtsc_moana_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c038\\mtsc\\mtsc_moana_ssd512.txt",
+    "bytes": 82975,
+    "sha256": "48abcf2097660d93727c6391bf72ac5f092e7cf943c7ad601bbfaccc16dda069",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c038/mtsc/mtsc_moana_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c038\\mtsc\\mtsc_moana_yolo3.txt",
+    "bytes": 116513,
+    "sha256": "8b35ccc5cec26face948acd2bcd07bada92e49d994d1822ae051c9a97986201b",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c038/mtsc/mtsc_tc_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c038\\mtsc\\mtsc_tc_mask_rcnn.txt",
+    "bytes": 119601,
+    "sha256": "f6bac668b38b701be0ce88a44520042ea34f9bb05fdef0547321cc8b0b946883",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c038/mtsc/mtsc_tc_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c038\\mtsc\\mtsc_tc_ssd512.txt",
+    "bytes": 67259,
+    "sha256": "3847eba70e345c959d4ed3c10adc1f2057f68e9c4d69913f299df0be7f8a677d",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c038/mtsc/mtsc_tc_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c038\\mtsc\\mtsc_tc_yolo3.txt",
+    "bytes": 103742,
+    "sha256": "7e96dd200b3554406d2ee58024baf49c13f7c1e9e87f475abc945b48313a2dc7",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c038/segm/segm_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c038\\segm\\segm_mask_rcnn.txt",
+    "bytes": 1716322,
+    "sha256": "652257d34cd4755856fdd5f602b2881a8aea7f4a3ac7993da26d9356d2727abf",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "processed/accmpeg_importance_cache/vdo_47dbad6f5fa3.npz",
+    "source": "F:\\paper\\code\\video_analysis\\data\\accmpeg_importance_cache\\vdo_47dbad6f5fa3.npz",
+    "bytes": 6208668,
+    "sha256": "844cd8c658feff21cd03310f4051ab887ff5a58e3fb42f0b91a656fb679ef659",
+    "role": "default_15_WD_cache"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c025/calibration.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c025\\calibration.txt",
+    "bytes": 228,
+    "sha256": "ef52fc4f1463e7be40ca73ff5941ca2a963b0a1f8775dca78ae121837339e6fa",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c025/roi.jpg",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c025\\roi.jpg",
+    "bytes": 81760,
+    "sha256": "edb5448f8f070491a70d3bde7102809bbfd3738ab901e7bab99fc7db152b81b9",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c025/vdo.avi",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c025\\vdo.avi",
+    "bytes": 72634412,
+    "sha256": "cf11a9481e5de4ba9cb4cbf0f4669d32ebea2d7b15ed6fe45f4a5ea9c8e99f25",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c025/det/det_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c025\\det\\det_mask_rcnn.txt",
+    "bytes": 301385,
+    "sha256": "8901d48e573d028a84cf4cd51b414d7e4580156860cf777ea5b18c82c0a80414",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c025/det/det_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c025\\det\\det_ssd512.txt",
+    "bytes": 243577,
+    "sha256": "fdde15afd19a4dd5be91d07cd6ebbd759c3ac9607a383afd6e5a60abff627daa",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c025/det/det_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c025\\det\\det_yolo3.txt",
+    "bytes": 218697,
+    "sha256": "e1b2c5e73fb137d3644ad6d2157e0720947bb7dc249f3cb88e0abcb4fbbfcb91",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c025/gt/gt.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c025\\gt\\gt.txt",
+    "bytes": 22390,
+    "sha256": "94f500fbdcf4f09fd7ce0e52480e5b77c19f0105f254afea52f1f4a29ddaebcf",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c025/mtsc/mtsc_deepsort_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c025\\mtsc\\mtsc_deepsort_mask_rcnn.txt",
+    "bytes": 241095,
+    "sha256": "3d3c671b1adf450b1867443702472c0eb9a89f6f0bfbb157b65339d5655dbf90",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c025/mtsc/mtsc_deepsort_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c025\\mtsc\\mtsc_deepsort_ssd512.txt",
+    "bytes": 203010,
+    "sha256": "f3acaca7b021f2aa5be1a418e7d53f5613824846ac4a56ad791d664e5a310efa",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c025/mtsc/mtsc_deepsort_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c025\\mtsc\\mtsc_deepsort_yolo3.txt",
+    "bytes": 182533,
+    "sha256": "daeb492a5f1f2b49520b56cff94ef73a0a1800bae0a33551c9499069026e6fea",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c025/mtsc/mtsc_moana_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c025\\mtsc\\mtsc_moana_mask_rcnn.txt",
+    "bytes": 249856,
+    "sha256": "13ded76a8a3b6c19ec9421d812d19751cf7f2d14ea5aa43dd83eddd7eda51231",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c025/mtsc/mtsc_moana_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c025\\mtsc\\mtsc_moana_ssd512.txt",
+    "bytes": 184598,
+    "sha256": "401ee2ca6803c6e9565742fe30ab04547a6b75e1d035bb5db404f1a7e110caf6",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c025/mtsc/mtsc_moana_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c025\\mtsc\\mtsc_moana_yolo3.txt",
+    "bytes": 199754,
+    "sha256": "344a50f43a952923c238b5b6dc3194d407f3ac2f8011095fa14bc69753151acb",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c025/mtsc/mtsc_tc_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c025\\mtsc\\mtsc_tc_mask_rcnn.txt",
+    "bytes": 234404,
+    "sha256": "c23e58ee990737f1a9c463a1beea1025ccc254919ed977bfeaba3539aeee2e90",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c025/mtsc/mtsc_tc_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c025\\mtsc\\mtsc_tc_ssd512.txt",
+    "bytes": 178875,
+    "sha256": "14bcdcbb6a686eda3078293be5fd771c67486659b89828983b5b8014151bd140",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c025/mtsc/mtsc_tc_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c025\\mtsc\\mtsc_tc_yolo3.txt",
+    "bytes": 181685,
+    "sha256": "29cdf4470b453f96eb2a07d6d7271fe629ff4e0f0128bda29c261e97f1c8a228",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c025/segm/segm_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c025\\segm\\segm_mask_rcnn.txt",
+    "bytes": 1702664,
+    "sha256": "495f4c73f4057881650d32a1a840a9724639d1705613a3892416ef2214ea6b58",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "processed/accmpeg_importance_cache/vdo_496f572bfb4c.npz",
+    "source": "F:\\paper\\code\\video_analysis\\data\\accmpeg_importance_cache\\vdo_496f572bfb4c.npz",
+    "bytes": 7483848,
+    "sha256": "f2d5dbec38851d1eaa3486dd9924e84a886e8b5a3673e90d9b5ea88ef4cc4951",
+    "role": "default_15_WD_cache"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c019/calibration.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c019\\calibration.txt",
+    "bytes": 230,
+    "sha256": "2fc81d7e0ddc16de97688f4fc28dddf33d6e1348f8a7e5e4f04e1f2bd652999b",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c019/roi.jpg",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c019\\roi.jpg",
+    "bytes": 69739,
+    "sha256": "b4b47cdcf6c1b1986ac8b1d9c484bfbb473f233cd6a4ea14dc8d9cb6d7433324",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c019/vdo.avi",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c019\\vdo.avi",
+    "bytes": 59727648,
+    "sha256": "646216aca04a7d81e4fe2356d19e36cc81782572c3f65f775b40cc4efc932f8d",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c019/det/det_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c019\\det\\det_mask_rcnn.txt",
+    "bytes": 73300,
+    "sha256": "10e0ccfe82c20d35af3586f136a7dfe3599a6f5096d0c2a8b7747ef00a15fbcc",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c019/det/det_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c019\\det\\det_ssd512.txt",
+    "bytes": 64158,
+    "sha256": "149aa4fafa3b9d124b54a6f05c4edf91b6a43ab5ea264bf42c43127077215605",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c019/det/det_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c019\\det\\det_yolo3.txt",
+    "bytes": 51188,
+    "sha256": "358c449e42f4c76557678503be0b682f750d9dd9bed617a73fdf5bca7c47e86a",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c019/gt/gt.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c019\\gt\\gt.txt",
+    "bytes": 14709,
+    "sha256": "8cba7eecf52b010c467bb7cbbff83ce61ed2f128f55df04ad026bad34580cced",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c019/mtsc/mtsc_deepsort_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c019\\mtsc\\mtsc_deepsort_mask_rcnn.txt",
+    "bytes": 56457,
+    "sha256": "f796001187195ef50f069669493d08bb2dcaf59e89d4397377f774d321e51113",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c019/mtsc/mtsc_deepsort_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c019\\mtsc\\mtsc_deepsort_ssd512.txt",
+    "bytes": 39799,
+    "sha256": "fd68cedbe2cecb2bdb708f8134150b21bad8252cea910b008a04d91389763f95",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c019/mtsc/mtsc_deepsort_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c019\\mtsc\\mtsc_deepsort_yolo3.txt",
+    "bytes": 41800,
+    "sha256": "8a4e45cb6fe54ff61cc84a1837dc70e62325b23a3757358795cc2e78864e7f93",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c019/mtsc/mtsc_moana_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c019\\mtsc\\mtsc_moana_mask_rcnn.txt",
+    "bytes": 63869,
+    "sha256": "a917e44b2475148b2c38832bc7f4080403dd4ad28ec405ead9a034380ccb2aa5",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c019/mtsc/mtsc_moana_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c019\\mtsc\\mtsc_moana_ssd512.txt",
+    "bytes": 44123,
+    "sha256": "b55803c8f59b75accffa72be31685551462265a2a967010fc1957c260bc61903",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c019/mtsc/mtsc_moana_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c019\\mtsc\\mtsc_moana_yolo3.txt",
+    "bytes": 46199,
+    "sha256": "c724243fb6347f78e9a609d22fd8faab3189c3b5394b1479f2aed4cf032cf200",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c019/mtsc/mtsc_tc_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c019\\mtsc\\mtsc_tc_mask_rcnn.txt",
+    "bytes": 55015,
+    "sha256": "37ffa9f23d4699bac76f9cc7b1627d2704d849f70af9c0d3d6bc7fc3ad833489",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c019/mtsc/mtsc_tc_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c019\\mtsc\\mtsc_tc_ssd512.txt",
+    "bytes": 37220,
+    "sha256": "cc0613ea6e3a884da6942f035ae25900a2cb3580721824d45d3dc7cdd40f3015",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c019/mtsc/mtsc_tc_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c019\\mtsc\\mtsc_tc_yolo3.txt",
+    "bytes": 40838,
+    "sha256": "976676a7eaee43244ee969aaf48a8cec17402d890a2a831f06207d74701c836f",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c019/segm/segm_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c019\\segm\\segm_mask_rcnn.txt",
+    "bytes": 830255,
+    "sha256": "ef9806cde0791fa670f7cca40456a858561b5837af8d176b3a5ad6f11e02633a",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "processed/accmpeg_importance_cache/vdo_499f8310a759.npz",
+    "source": "F:\\paper\\code\\video_analysis\\data\\accmpeg_importance_cache\\vdo_499f8310a759.npz",
+    "bytes": 6188591,
+    "sha256": "f2aa8f601e471448b90549ecd51bf1f595059c3542f3db3a20fd63bd9fcb8517",
+    "role": "default_15_WD_cache"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c040/calibration.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c040\\calibration.txt",
+    "bytes": 227,
+    "sha256": "31da98ac6cc21c1018ccc2ea9ffcf625fbbaf2df336927ac24aae35adcbab6af",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c040/roi.jpg",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c040\\roi.jpg",
+    "bytes": 37837,
+    "sha256": "cbad81ced24bd1961ab25d783d641eeb54ecb3d23b9719d80cac0df427830f84",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c040/vdo.avi",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c040\\vdo.avi",
+    "bytes": 33414654,
+    "sha256": "7923eee784ee51cb91c88a6ffa64a495a8717758b23a1f99e9a5f1cd3fbd0f0d",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c040/det/det_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c040\\det\\det_mask_rcnn.txt",
+    "bytes": 361368,
+    "sha256": "fc06dd64b9df4027721808a9ab08ebbbe9ae13d96cb69c289697983c9c84979b",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c040/det/det_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c040\\det\\det_ssd512.txt",
+    "bytes": 235197,
+    "sha256": "5075e1a2002a423b417bb0cf9b64f2912cda597aedda0f6b618f411022800ec8",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c040/det/det_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c040\\det\\det_yolo3.txt",
+    "bytes": 208448,
+    "sha256": "4bc0b3f3fe891e69f3f532fcbe76ff5ac52e99a3ccd38be1bf8335e4a77d7f16",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c040/gt/gt.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c040\\gt\\gt.txt",
+    "bytes": 38383,
+    "sha256": "97b2fcbeeb5e050a33df9de69c20f3394d48c895b0e142e23d8265f60234e32a",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c040/mtsc/mtsc_deepsort_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c040\\mtsc\\mtsc_deepsort_mask_rcnn.txt",
+    "bytes": 273072,
+    "sha256": "627380dc58825811fa13332cf48f908fd9f2b10519347bd350ddc19513a518d4",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c040/mtsc/mtsc_deepsort_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c040\\mtsc\\mtsc_deepsort_ssd512.txt",
+    "bytes": 179644,
+    "sha256": "67870b66299b27a5ab59975983a4341dd72b90c4ab791860c08fccc73e8495f3",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c040/mtsc/mtsc_deepsort_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c040\\mtsc\\mtsc_deepsort_yolo3.txt",
+    "bytes": 173041,
+    "sha256": "5a3d7fe8f733c2e137bcf026cfd6078732694fb6b7b5941da9f78617648f5876",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c040/mtsc/mtsc_moana_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c040\\mtsc\\mtsc_moana_mask_rcnn.txt",
+    "bytes": 226541,
+    "sha256": "293f33489d3ab77eec6d3ce0f91d5d1fa6c6aa30e07f026d453390164607cb4b",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c040/mtsc/mtsc_moana_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c040\\mtsc\\mtsc_moana_ssd512.txt",
+    "bytes": 168761,
+    "sha256": "d35345a85f7fad6aeb8fca402055f04d5bcf338389ef533e9ed27c7a1a40323a",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c040/mtsc/mtsc_moana_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c040\\mtsc\\mtsc_moana_yolo3.txt",
+    "bytes": 181903,
+    "sha256": "5299283a2827b9a62298ef66ebf7283d8c60ffdcf8edab1f19e7b85bae62fa8f",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c040/mtsc/mtsc_tc_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c040\\mtsc\\mtsc_tc_mask_rcnn.txt",
+    "bytes": 229509,
+    "sha256": "f5c4b6c1e96d818fa6f9942d55b6ae74b2c96dda05e85a3d80e2066c81a5e60a",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c040/mtsc/mtsc_tc_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c040\\mtsc\\mtsc_tc_ssd512.txt",
+    "bytes": 175693,
+    "sha256": "53d817f678c67aaea3da0f3912ae14977d7549cfeabb366ed971d2e24b7c6aec",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c040/mtsc/mtsc_tc_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c040\\mtsc\\mtsc_tc_yolo3.txt",
+    "bytes": 176665,
+    "sha256": "e82a272b6ceb0603be457124b5813d9a66cd44141db52e484286667395355223",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c040/segm/segm_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c040\\segm\\segm_mask_rcnn.txt",
+    "bytes": 1505583,
+    "sha256": "17325471613b0899006f0a6f6a8bc8b460c3b33124584886a9876019fc6f9e87",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "processed/accmpeg_importance_cache/vdo_6b520c893272.npz",
+    "source": "F:\\paper\\code\\video_analysis\\data\\accmpeg_importance_cache\\vdo_6b520c893272.npz",
+    "bytes": 6120735,
+    "sha256": "3b5f5edaf027c49eca733e0102b57910c55e06c57eff5d2112c78c16f90794ee",
+    "role": "default_15_WD_cache"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c017/calibration.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c017\\calibration.txt",
+    "bytes": 229,
+    "sha256": "b76ff4d2e1a88717e8fc8422a234e858150dae8c8f5c372d9cf7aa8e0df65a9b",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c017/roi.jpg",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c017\\roi.jpg",
+    "bytes": 38067,
+    "sha256": "25348ac5c1c0bbbc285581ab9295511015361344bda70f8e04a75f7aca98118b",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c017/vdo.avi",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c017\\vdo.avi",
+    "bytes": 22765180,
+    "sha256": "d5c20b1a8cf9013819e92ab33ba925c6cb6b8e6e4832b669a612dda2fed0d11a",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c017/det/det_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c017\\det\\det_mask_rcnn.txt",
+    "bytes": 107705,
+    "sha256": "d865206816fcacf0438f65304238697fa11113a60760da68f2999bd985759c83",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c017/det/det_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c017\\det\\det_ssd512.txt",
+    "bytes": 102530,
+    "sha256": "ff8bd255c11e151d33bae15d4880ca82fc2bb55f6b6f862aa08d5bb5f92a6096",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c017/det/det_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c017\\det\\det_yolo3.txt",
+    "bytes": 92133,
+    "sha256": "35168fcb804a3a7879ac8c6cf0924ba04fd589bce8bd8560a429da879544b612",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c017/gt/gt.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c017\\gt\\gt.txt",
+    "bytes": 12855,
+    "sha256": "c7716c940e0da7b8db6613e83e28807b3f038bf8a3757dc8a23085bab1d0b839",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c017/mtsc/mtsc_deepsort_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c017\\mtsc\\mtsc_deepsort_mask_rcnn.txt",
+    "bytes": 75166,
+    "sha256": "df4c0b7158e34d02fe4a1c442f12bde628d329c024b45a569469f7e05ad49b1f",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c017/mtsc/mtsc_deepsort_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c017\\mtsc\\mtsc_deepsort_ssd512.txt",
+    "bytes": 71480,
+    "sha256": "f1ca48815afe275d4558c4b1c560741811fa32f39163db4381d490467f80137c",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c017/mtsc/mtsc_deepsort_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c017\\mtsc\\mtsc_deepsort_yolo3.txt",
+    "bytes": 76128,
+    "sha256": "edb22cd92fd9a38e73bfa0685d7706ef9821d3b9ed94fe92e5228f4128d16a81",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c017/mtsc/mtsc_moana_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c017\\mtsc\\mtsc_moana_mask_rcnn.txt",
+    "bytes": 81798,
+    "sha256": "5f66afb1d8ace53d8c7cd8ae037f9902bfb08a503df6082fa7ea2d216de46522",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c017/mtsc/mtsc_moana_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c017\\mtsc\\mtsc_moana_ssd512.txt",
+    "bytes": 78296,
+    "sha256": "5ae05685b26f40ab60a20eb386b7b98d9af58acabaf4726c7bd2cea754fbab91",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c017/mtsc/mtsc_moana_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c017\\mtsc\\mtsc_moana_yolo3.txt",
+    "bytes": 82712,
+    "sha256": "80fbd3b2558053b2aff2a15ad20bbbbfb30a309fd9ba1fd12dda98a93400f5e3",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c017/mtsc/mtsc_tc_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c017\\mtsc\\mtsc_tc_mask_rcnn.txt",
+    "bytes": 75451,
+    "sha256": "b170333f66e2dcd0ff99ede69f7960ddff89fa630aa6b6a162ec5dd0907a8edd",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c017/mtsc/mtsc_tc_ssd512.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c017\\mtsc\\mtsc_tc_ssd512.txt",
+    "bytes": 71594,
+    "sha256": "abcfa7778b2d7c9422a161e512f2dc875eb1d5f72975783f1d877f4c75b2079c",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c017/mtsc/mtsc_tc_yolo3.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c017\\mtsc\\mtsc_tc_yolo3.txt",
+    "bytes": 77140,
+    "sha256": "6f520b10007c272428a0d03c9dd391d2aad354f982beff75cd1470d333631c3e",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c017/segm/segm_mask_rcnn.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c017\\segm\\segm_mask_rcnn.txt",
+    "bytes": 884163,
+    "sha256": "e87e5758b39d363ae66a7f6ee3f8212a1be92611feb8c3ef24110d8cd3e4e775",
+    "role": "source_camera_asset"
+  },
+  {
+    "file": "processed/accmpeg_importance_cache/vdo_71b642a6bb49.npz",
+    "source": "F:\\paper\\code\\video_analysis\\data\\accmpeg_importance_cache\\vdo_71b642a6bb49.npz",
+    "bytes": 3733807,
+    "sha256": "159dc355acf6d387d8c2655324d5eba5edd0939440b14629cd1aff76e6c2e3e8",
+    "role": "default_15_WD_cache"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/ReadMe.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\ReadMe.txt",
+    "bytes": 6784,
+    "sha256": "c44487ec521ae0fd92561053204c47c2db30ee98a4d8f6143091592b9f3b89ff",
+    "role": "dataset_documentation"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/Dataset License AIC2022.pdf",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\Dataset License AIC2022.pdf",
+    "bytes": 131193,
+    "sha256": "bf702ff1e93dbfa90b33819dc88b3f48200704b6b7a505b0542f8437696121ae",
+    "role": "dataset_documentation"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/list_cam.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\list_cam.txt",
+    "bytes": 1279,
+    "sha256": "df128a9d8eaa3a9eeb20f6dde472bb4fc38cf1ba701d98883079fbd2b908e854",
+    "role": "dataset_documentation"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/cam_framenum/S01.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\cam_framenum\\S01.txt",
+    "bytes": 55,
+    "sha256": "f67a29fc9d8805cb4741bde2750d73e5edb597c5ea5ff00f16092cc92fab5310",
+    "role": "dataset_metadata"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/cam_framenum/S02.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\cam_framenum\\S02.txt",
+    "bytes": 44,
+    "sha256": "ec1fe52963b7bc8399a3ea124cee4c91958931692fb7de6e6db5aa734ac3e590",
+    "role": "dataset_metadata"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/cam_framenum/S03.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\cam_framenum\\S03.txt",
+    "bytes": 66,
+    "sha256": "35ec2510b72989ce41a4b01240364724ac7bcf4d49ec6e1ad32b4bf47aaae4c5",
+    "role": "dataset_metadata"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/cam_framenum/S04.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\cam_framenum\\S04.txt",
+    "bytes": 250,
+    "sha256": "1489a0bf3c8dcf67f3ae1a081b055fcac06346b1bd69b45847a13160521b2190",
+    "role": "dataset_metadata"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/cam_framenum/S05.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\cam_framenum\\S05.txt",
+    "bytes": 209,
+    "sha256": "de56a9794a9d0491b3bd69c9bd94b8bf8ed1466b0eb7b3b0abaf778a4befc49f",
+    "role": "dataset_metadata"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/cam_framenum/S06.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\cam_framenum\\S06.txt",
+    "bytes": 66,
+    "sha256": "f32e8128f1708ba1ffa869c4eb3797335d58fcc4e40db010393bc55f4872690d",
+    "role": "dataset_metadata"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/cam_loc/S01.png",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\cam_loc\\S01.png",
+    "bytes": 863384,
+    "sha256": "65bdcd086b4048eb7e61a8ddf1d8e89599c6c7415e582177499bb6c9bf205eab",
+    "role": "dataset_metadata"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/cam_loc/S02.png",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\cam_loc\\S02.png",
+    "bytes": 761955,
+    "sha256": "0e7796785d5bcc71b257b464d8eaf4c02de727930c1a3c6dd0617fc6ec05e6b1",
+    "role": "dataset_metadata"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/cam_loc/S0345.png",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\cam_loc\\S0345.png",
+    "bytes": 624600,
+    "sha256": "b816e759da6bd8bf7c6540c89c6d8d5e449c13d220b6879ec8ca9fab76019b3f",
+    "role": "dataset_metadata"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/cam_loc/S06.png",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\cam_loc\\S06.png",
+    "bytes": 2169906,
+    "sha256": "afdd0fd8b6a9ce54acc86686a99fe3def626401cb6a547873fe9ce152d305704",
+    "role": "dataset_metadata"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/cam_timestamp/S01.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\cam_timestamp\\S01.txt",
+    "bytes": 56,
+    "sha256": "c06bb90d5773b88c7da32d3b398b19cef8291859ca61664ba1a70e19ff3f5e72",
+    "role": "dataset_metadata"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/cam_timestamp/S02.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\cam_timestamp\\S02.txt",
+    "bytes": 43,
+    "sha256": "24944e3fd0ae99a5add52d4863fa65b35f244b89424b359d15200e1d49f539c5",
+    "role": "dataset_metadata"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/cam_timestamp/S03.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\cam_timestamp\\S03.txt",
+    "bytes": 67,
+    "sha256": "9ce34cfeec50140b157cef74b117469c83b51b6b70ac654ca96d0d7eeac25d70",
+    "role": "dataset_metadata"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/cam_timestamp/S04.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\cam_timestamp\\S04.txt",
+    "bytes": 333,
+    "sha256": "d8065183ff6eb97ee2d0788687ef9a15da18464336dc1a496274c530e71954f9",
+    "role": "dataset_metadata"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/cam_timestamp/S05.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\cam_timestamp\\S05.txt",
+    "bytes": 152,
+    "sha256": "aec29177e1699f57d769fbbe5c85193e5a9694952172248a3902b91fb3fee918",
+    "role": "dataset_metadata"
+  },
+  {
+    "file": "raw/AICity22_Track1_MTMC_Tracking/cam_timestamp/S06.txt",
+    "source": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\cam_timestamp\\S06.txt",
+    "bytes": 48,
+    "sha256": "9703d26201e852f63e30025aed3bf6009d066e2ca0689bff8d9e2f1ee4feb847",
+    "role": "dataset_metadata"
+  },
+  {
+    "file": "workload/ECW_newapp.pkl",
+    "source": "F:\\paper\\code\\video_analysis\\ECW_newapp.pkl",
+    "bytes": 697371,
+    "sha256": "899670168d4283854dca85d918506c5031011ad7e37f1de8966e3ed6b4cbda38",
+    "role": "raw_ECW_workload"
+  },
+  {
+    "file": "weights/accmpeg/COCO_detection_FPN_SSD_withconfidence_allclasses_new_unfreezebackbone_withoutclasscheck.pth.best",
+    "source": "F:\\paper\\reference_code\\AccMPEG-MLSys\\AccMPEG-MLSys\\maskgen_pths\\COCO_detection_FPN_SSD_withconfidence_allclasses_new_unfreezebackbone_withoutclasscheck.pth.best",
+    "bytes": 16140328,
+    "sha256": "c814bb54ca411be3e0a5e9a19caa73eaa6fada430dea48a939217e72518aa0ba",
+    "role": "importance_predictor_weight"
+  },
+  {
+    "file": "provenance/accmpeg_yolo5.py",
+    "source": "F:\\paper\\reference_code\\AccMPEG-MLSys\\AccMPEG-MLSys\\dnn\\yolo5.py",
+    "bytes": 14063,
+    "sha256": "33c04fdfdfe7c74524529372be7bdb28bdc1b25204de4d88be8ce35ced5f16b9",
+    "role": "YOLOv5l_loader_evidence_not_weight"
+  },
+  {
+    "file": "provenance/accmpegmodel.py",
+    "source": "F:\\paper\\reference_code\\AccMPEG-MLSys\\AccMPEG-MLSys\\maskgen\\SSD\\accmpegmodel.py",
+    "bytes": 25087,
+    "sha256": "93ab20c116dc5d2a50e603dc59f172f497b7095d05996f5774961c8566b87536",
+    "role": "importance_predictor_architecture"
+  },
+  {
+    "file": "provenance/accmpeg_video_predictor.py",
+    "source": "F:\\paper\\code\\video_analysis\\accmpeg_video_predictor.py",
+    "bytes": 12945,
+    "sha256": "68ccf37d6db08671371e69f498bb4d0934b1b10fb381046b53e0cfe1fa601711",
+    "role": "preprocessing_source_snapshot"
+  },
+  {
+    "file": "provenance/accmpeg/README.md",
+    "source": "F:\\paper\\reference_code\\AccMPEG-MLSys\\AccMPEG-MLSys\\README.md",
+    "bytes": 2286,
+    "sha256": "f83e670a50f3f6d26aac38d48a4f2e1c1bfa6216b11cd7c40d58ff31524051e1",
+    "role": "upstream_documentation"
+  }
+]

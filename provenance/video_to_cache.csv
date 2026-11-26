@@ -1,0 +1,16 @@
+﻿WD,video,cache,width,height
+1,raw/AICity22_Track1_MTMC_Tracking/train/S01/c004/vdo.avi,processed/accmpeg_importance_cache/vdo_02424a63c95e.npz,1920,1080
+2,raw/AICity22_Track1_MTMC_Tracking/train/S04/c034/vdo.avi,processed/accmpeg_importance_cache/vdo_15200d6b480c.npz,1920,1080
+3,raw/AICity22_Track1_MTMC_Tracking/train/S04/c022/vdo.avi,processed/accmpeg_importance_cache/vdo_1e3119bd22c3.npz,1920,1080
+4,raw/AICity22_Track1_MTMC_Tracking/train/S04/c021/vdo.avi,processed/accmpeg_importance_cache/vdo_1e31dfc7f448.npz,1920,1080
+5,raw/AICity22_Track1_MTMC_Tracking/train/S04/c032/vdo.avi,processed/accmpeg_importance_cache/vdo_20bed7e47d1f.npz,1600,1200
+6,raw/AICity22_Track1_MTMC_Tracking/train/S04/c030/vdo.avi,processed/accmpeg_importance_cache/vdo_211a23d7dbdc.npz,1600,1200
+7,raw/AICity22_Track1_MTMC_Tracking/train/S04/c023/vdo.avi,processed/accmpeg_importance_cache/vdo_25af2a36c222.npz,2560,1920
+8,raw/AICity22_Track1_MTMC_Tracking/train/S04/c039/vdo.avi,processed/accmpeg_importance_cache/vdo_299f17dc4024.npz,2560,1920
+9,raw/AICity22_Track1_MTMC_Tracking/train/S04/c031/vdo.avi,processed/accmpeg_importance_cache/vdo_2a42a16b778c.npz,1600,1200
+10,raw/AICity22_Track1_MTMC_Tracking/train/S01/c001/vdo.avi,processed/accmpeg_importance_cache/vdo_43b9e0515a01.npz,1920,1080
+11,raw/AICity22_Track1_MTMC_Tracking/train/S04/c038/vdo.avi,processed/accmpeg_importance_cache/vdo_47dbad6f5fa3.npz,2560,1920
+12,raw/AICity22_Track1_MTMC_Tracking/train/S04/c025/vdo.avi,processed/accmpeg_importance_cache/vdo_496f572bfb4c.npz,2560,1920
+13,raw/AICity22_Track1_MTMC_Tracking/train/S04/c019/vdo.avi,processed/accmpeg_importance_cache/vdo_499f8310a759.npz,2560,1920
+14,raw/AICity22_Track1_MTMC_Tracking/train/S04/c040/vdo.avi,processed/accmpeg_importance_cache/vdo_6b520c893272.npz,1600,1200
+15,raw/AICity22_Track1_MTMC_Tracking/train/S04/c017/vdo.avi,processed/accmpeg_importance_cache/vdo_71b642a6bb49.npz,1920,1080

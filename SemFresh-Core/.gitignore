@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.mat
+*.pkl
+*.npz
+*.h5
+*.keras
+*.ckpt*
+.env*
+data/
+logs/
+checkpoints/
