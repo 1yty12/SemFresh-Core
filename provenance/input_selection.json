@@ -1,0 +1,874 @@
+[
+  {
+    "user": 1,
+    "cache": "F:\\paper\\code\\video_analysis\\data\\accmpeg_importance_cache\\vdo_02424a63c95e.npz",
+    "video": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c004\\vdo.avi",
+    "resolution": [
+      1920,
+      1080
+    ],
+    "bytes": 165528421,
+    "camera_files": 17,
+    "cache_arrays": {
+      "importance_maps": {
+        "shape": [
+          2110,
+          45,
+          80
+        ],
+        "dtype": "float32"
+      },
+      "frame_sizes": {
+        "shape": [
+          2110,
+          2
+        ],
+        "dtype": "int32"
+      },
+      "frame_data_sizes": {
+        "shape": [
+          2110
+        ],
+        "dtype": "float32"
+      },
+      "frame_data_size_source": {
+        "shape": [],
+        "dtype": "<U23"
+      },
+      "fps": {
+        "shape": [],
+        "dtype": "float32"
+      },
+      "video_paths": {
+        "shape": [
+          1
+        ],
+        "dtype": "<U75"
+      },
+      "tile_size": {
+        "shape": [],
+        "dtype": "int32"
+      },
+      "source_resolution": {
+        "shape": [
+          2
+        ],
+        "dtype": "int32"
+      }
+    },
+    "packaged_video": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c004/vdo.avi",
+    "packaged_cache": "processed/accmpeg_importance_cache/vdo_02424a63c95e.npz"
+  },
+  {
+    "user": 2,
+    "cache": "F:\\paper\\code\\video_analysis\\data\\accmpeg_importance_cache\\vdo_15200d6b480c.npz",
+    "video": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c034\\vdo.avi",
+    "resolution": [
+      1920,
+      1080
+    ],
+    "bytes": 65314111,
+    "camera_files": 17,
+    "cache_arrays": {
+      "importance_maps": {
+        "shape": [
+          410,
+          45,
+          80
+        ],
+        "dtype": "float32"
+      },
+      "frame_sizes": {
+        "shape": [
+          410,
+          2
+        ],
+        "dtype": "int32"
+      },
+      "frame_data_sizes": {
+        "shape": [
+          410
+        ],
+        "dtype": "float32"
+      },
+      "frame_data_size_source": {
+        "shape": [],
+        "dtype": "<U23"
+      },
+      "fps": {
+        "shape": [],
+        "dtype": "float32"
+      },
+      "video_paths": {
+        "shape": [
+          1
+        ],
+        "dtype": "<U75"
+      },
+      "tile_size": {
+        "shape": [],
+        "dtype": "int32"
+      },
+      "source_resolution": {
+        "shape": [
+          2
+        ],
+        "dtype": "int32"
+      }
+    },
+    "packaged_video": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c034/vdo.avi",
+    "packaged_cache": "processed/accmpeg_importance_cache/vdo_15200d6b480c.npz"
+  },
+  {
+    "user": 3,
+    "cache": "F:\\paper\\code\\video_analysis\\data\\accmpeg_importance_cache\\vdo_1e3119bd22c3.npz",
+    "video": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c022\\vdo.avi",
+    "resolution": [
+      1920,
+      1080
+    ],
+    "bytes": 38292765,
+    "camera_files": 17,
+    "cache_arrays": {
+      "importance_maps": {
+        "shape": [
+          310,
+          45,
+          80
+        ],
+        "dtype": "float32"
+      },
+      "frame_sizes": {
+        "shape": [
+          310,
+          2
+        ],
+        "dtype": "int32"
+      },
+      "frame_data_sizes": {
+        "shape": [
+          310
+        ],
+        "dtype": "float32"
+      },
+      "fps": {
+        "shape": [],
+        "dtype": "float32"
+      },
+      "video_paths": {
+        "shape": [
+          1
+        ],
+        "dtype": "<U75"
+      },
+      "tile_size": {
+        "shape": [],
+        "dtype": "int32"
+      },
+      "source_resolution": {
+        "shape": [
+          2
+        ],
+        "dtype": "int32"
+      }
+    },
+    "packaged_video": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c022/vdo.avi",
+    "packaged_cache": "processed/accmpeg_importance_cache/vdo_1e3119bd22c3.npz"
+  },
+  {
+    "user": 4,
+    "cache": "F:\\paper\\code\\video_analysis\\data\\accmpeg_importance_cache\\vdo_1e31dfc7f448.npz",
+    "video": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c021\\vdo.avi",
+    "resolution": [
+      1920,
+      1080
+    ],
+    "bytes": 28464901,
+    "camera_files": 17,
+    "cache_arrays": {
+      "importance_maps": {
+        "shape": [
+          310,
+          45,
+          80
+        ],
+        "dtype": "float32"
+      },
+      "frame_sizes": {
+        "shape": [
+          310,
+          2
+        ],
+        "dtype": "int32"
+      },
+      "frame_data_sizes": {
+        "shape": [
+          310
+        ],
+        "dtype": "float32"
+      },
+      "fps": {
+        "shape": [],
+        "dtype": "float32"
+      },
+      "video_paths": {
+        "shape": [
+          1
+        ],
+        "dtype": "<U75"
+      },
+      "tile_size": {
+        "shape": [],
+        "dtype": "int32"
+      },
+      "source_resolution": {
+        "shape": [
+          2
+        ],
+        "dtype": "int32"
+      }
+    },
+    "packaged_video": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c021/vdo.avi",
+    "packaged_cache": "processed/accmpeg_importance_cache/vdo_1e31dfc7f448.npz"
+  },
+  {
+    "user": 5,
+    "cache": "F:\\paper\\code\\video_analysis\\data\\accmpeg_importance_cache\\vdo_20bed7e47d1f.npz",
+    "video": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c032\\vdo.avi",
+    "resolution": [
+      1600,
+      1200
+    ],
+    "bytes": 50273268,
+    "camera_files": 17,
+    "cache_arrays": {
+      "importance_maps": {
+        "shape": [
+          625,
+          45,
+          80
+        ],
+        "dtype": "float32"
+      },
+      "frame_sizes": {
+        "shape": [
+          625,
+          2
+        ],
+        "dtype": "int32"
+      },
+      "frame_data_sizes": {
+        "shape": [
+          625
+        ],
+        "dtype": "float32"
+      },
+      "frame_data_size_source": {
+        "shape": [],
+        "dtype": "<U23"
+      },
+      "fps": {
+        "shape": [],
+        "dtype": "float32"
+      },
+      "video_paths": {
+        "shape": [
+          1
+        ],
+        "dtype": "<U75"
+      },
+      "tile_size": {
+        "shape": [],
+        "dtype": "int32"
+      },
+      "source_resolution": {
+        "shape": [
+          2
+        ],
+        "dtype": "int32"
+      }
+    },
+    "packaged_video": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c032/vdo.avi",
+    "packaged_cache": "processed/accmpeg_importance_cache/vdo_20bed7e47d1f.npz"
+  },
+  {
+    "user": 6,
+    "cache": "F:\\paper\\code\\video_analysis\\data\\accmpeg_importance_cache\\vdo_211a23d7dbdc.npz",
+    "video": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c030\\vdo.avi",
+    "resolution": [
+      1600,
+      1200
+    ],
+    "bytes": 53933996,
+    "camera_files": 17,
+    "cache_arrays": {
+      "importance_maps": {
+        "shape": [
+          632,
+          45,
+          80
+        ],
+        "dtype": "float32"
+      },
+      "frame_sizes": {
+        "shape": [
+          632,
+          2
+        ],
+        "dtype": "int32"
+      },
+      "frame_data_sizes": {
+        "shape": [
+          632
+        ],
+        "dtype": "float32"
+      },
+      "fps": {
+        "shape": [],
+        "dtype": "float32"
+      },
+      "video_paths": {
+        "shape": [
+          1
+        ],
+        "dtype": "<U75"
+      },
+      "tile_size": {
+        "shape": [],
+        "dtype": "int32"
+      },
+      "source_resolution": {
+        "shape": [
+          2
+        ],
+        "dtype": "int32"
+      }
+    },
+    "packaged_video": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c030/vdo.avi",
+    "packaged_cache": "processed/accmpeg_importance_cache/vdo_211a23d7dbdc.npz"
+  },
+  {
+    "user": 7,
+    "cache": "F:\\paper\\code\\video_analysis\\data\\accmpeg_importance_cache\\vdo_25af2a36c222.npz",
+    "video": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c023\\vdo.avi",
+    "resolution": [
+      2560,
+      1920
+    ],
+    "bytes": 98271926,
+    "camera_files": 17,
+    "cache_arrays": {
+      "importance_maps": {
+        "shape": [
+          609,
+          45,
+          80
+        ],
+        "dtype": "float32"
+      },
+      "frame_sizes": {
+        "shape": [
+          609,
+          2
+        ],
+        "dtype": "int32"
+      },
+      "frame_data_sizes": {
+        "shape": [
+          609
+        ],
+        "dtype": "float32"
+      },
+      "fps": {
+        "shape": [],
+        "dtype": "float32"
+      },
+      "video_paths": {
+        "shape": [
+          1
+        ],
+        "dtype": "<U75"
+      },
+      "tile_size": {
+        "shape": [],
+        "dtype": "int32"
+      },
+      "source_resolution": {
+        "shape": [
+          2
+        ],
+        "dtype": "int32"
+      }
+    },
+    "packaged_video": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c023/vdo.avi",
+    "packaged_cache": "processed/accmpeg_importance_cache/vdo_25af2a36c222.npz"
+  },
+  {
+    "user": 8,
+    "cache": "F:\\paper\\code\\video_analysis\\data\\accmpeg_importance_cache\\vdo_299f17dc4024.npz",
+    "video": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c039\\vdo.avi",
+    "resolution": [
+      2560,
+      1920
+    ],
+    "bytes": 121960293,
+    "camera_files": 17,
+    "cache_arrays": {
+      "importance_maps": {
+        "shape": [
+          452,
+          45,
+          80
+        ],
+        "dtype": "float32"
+      },
+      "frame_sizes": {
+        "shape": [
+          452,
+          2
+        ],
+        "dtype": "int32"
+      },
+      "frame_data_sizes": {
+        "shape": [
+          452
+        ],
+        "dtype": "float32"
+      },
+      "frame_data_size_source": {
+        "shape": [],
+        "dtype": "<U23"
+      },
+      "fps": {
+        "shape": [],
+        "dtype": "float32"
+      },
+      "video_paths": {
+        "shape": [
+          1
+        ],
+        "dtype": "<U75"
+      },
+      "tile_size": {
+        "shape": [],
+        "dtype": "int32"
+      },
+      "source_resolution": {
+        "shape": [
+          2
+        ],
+        "dtype": "int32"
+      }
+    },
+    "packaged_video": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c039/vdo.avi",
+    "packaged_cache": "processed/accmpeg_importance_cache/vdo_299f17dc4024.npz"
+  },
+  {
+    "user": 9,
+    "cache": "F:\\paper\\code\\video_analysis\\data\\accmpeg_importance_cache\\vdo_2a42a16b778c.npz",
+    "video": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c031\\vdo.avi",
+    "resolution": [
+      1600,
+      1200
+    ],
+    "bytes": 80800792,
+    "camera_files": 17,
+    "cache_arrays": {
+      "importance_maps": {
+        "shape": [
+          656,
+          45,
+          80
+        ],
+        "dtype": "float32"
+      },
+      "frame_sizes": {
+        "shape": [
+          656,
+          2
+        ],
+        "dtype": "int32"
+      },
+      "frame_data_sizes": {
+        "shape": [
+          656
+        ],
+        "dtype": "float32"
+      },
+      "frame_data_size_source": {
+        "shape": [],
+        "dtype": "<U23"
+      },
+      "fps": {
+        "shape": [],
+        "dtype": "float32"
+      },
+      "video_paths": {
+        "shape": [
+          1
+        ],
+        "dtype": "<U75"
+      },
+      "tile_size": {
+        "shape": [],
+        "dtype": "int32"
+      },
+      "source_resolution": {
+        "shape": [
+          2
+        ],
+        "dtype": "int32"
+      }
+    },
+    "packaged_video": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c031/vdo.avi",
+    "packaged_cache": "processed/accmpeg_importance_cache/vdo_2a42a16b778c.npz"
+  },
+  {
+    "user": 10,
+    "cache": "F:\\paper\\code\\video_analysis\\data\\accmpeg_importance_cache\\vdo_43b9e0515a01.npz",
+    "video": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S01\\c001\\vdo.avi",
+    "resolution": [
+      1920,
+      1080
+    ],
+    "bytes": 157981355,
+    "camera_files": 17,
+    "cache_arrays": {
+      "importance_maps": {
+        "shape": [
+          1955,
+          45,
+          80
+        ],
+        "dtype": "float32"
+      },
+      "frame_sizes": {
+        "shape": [
+          1955,
+          2
+        ],
+        "dtype": "int32"
+      },
+      "frame_data_sizes": {
+        "shape": [
+          1955
+        ],
+        "dtype": "float32"
+      },
+      "frame_data_size_source": {
+        "shape": [],
+        "dtype": "<U23"
+      },
+      "fps": {
+        "shape": [],
+        "dtype": "float32"
+      },
+      "video_paths": {
+        "shape": [
+          1
+        ],
+        "dtype": "<U75"
+      },
+      "tile_size": {
+        "shape": [],
+        "dtype": "int32"
+      },
+      "source_resolution": {
+        "shape": [
+          2
+        ],
+        "dtype": "int32"
+      }
+    },
+    "packaged_video": "raw/AICity22_Track1_MTMC_Tracking/train/S01/c001/vdo.avi",
+    "packaged_cache": "processed/accmpeg_importance_cache/vdo_43b9e0515a01.npz"
+  },
+  {
+    "user": 11,
+    "cache": "F:\\paper\\code\\video_analysis\\data\\accmpeg_importance_cache\\vdo_47dbad6f5fa3.npz",
+    "video": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c038\\vdo.avi",
+    "resolution": [
+      2560,
+      1920
+    ],
+    "bytes": 94969639,
+    "camera_files": 17,
+    "cache_arrays": {
+      "importance_maps": {
+        "shape": [
+          457,
+          45,
+          80
+        ],
+        "dtype": "float32"
+      },
+      "frame_sizes": {
+        "shape": [
+          457,
+          2
+        ],
+        "dtype": "int32"
+      },
+      "frame_data_sizes": {
+        "shape": [
+          457
+        ],
+        "dtype": "float32"
+      },
+      "frame_data_size_source": {
+        "shape": [],
+        "dtype": "<U23"
+      },
+      "fps": {
+        "shape": [],
+        "dtype": "float32"
+      },
+      "video_paths": {
+        "shape": [
+          1
+        ],
+        "dtype": "<U75"
+      },
+      "tile_size": {
+        "shape": [],
+        "dtype": "int32"
+      },
+      "source_resolution": {
+        "shape": [
+          2
+        ],
+        "dtype": "int32"
+      }
+    },
+    "packaged_video": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c038/vdo.avi",
+    "packaged_cache": "processed/accmpeg_importance_cache/vdo_47dbad6f5fa3.npz"
+  },
+  {
+    "user": 12,
+    "cache": "F:\\paper\\code\\video_analysis\\data\\accmpeg_importance_cache\\vdo_496f572bfb4c.npz",
+    "video": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c025\\vdo.avi",
+    "resolution": [
+      2560,
+      1920
+    ],
+    "bytes": 77060923,
+    "camera_files": 17,
+    "cache_arrays": {
+      "importance_maps": {
+        "shape": [
+          559,
+          45,
+          80
+        ],
+        "dtype": "float32"
+      },
+      "frame_sizes": {
+        "shape": [
+          559,
+          2
+        ],
+        "dtype": "int32"
+      },
+      "frame_data_sizes": {
+        "shape": [
+          559
+        ],
+        "dtype": "float32"
+      },
+      "fps": {
+        "shape": [],
+        "dtype": "float32"
+      },
+      "video_paths": {
+        "shape": [
+          1
+        ],
+        "dtype": "<U75"
+      },
+      "tile_size": {
+        "shape": [],
+        "dtype": "int32"
+      },
+      "source_resolution": {
+        "shape": [
+          2
+        ],
+        "dtype": "int32"
+      }
+    },
+    "packaged_video": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c025/vdo.avi",
+    "packaged_cache": "processed/accmpeg_importance_cache/vdo_496f572bfb4c.npz"
+  },
+  {
+    "user": 13,
+    "cache": "F:\\paper\\code\\video_analysis\\data\\accmpeg_importance_cache\\vdo_499f8310a759.npz",
+    "video": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c019\\vdo.avi",
+    "resolution": [
+      2560,
+      1920
+    ],
+    "bytes": 61256547,
+    "camera_files": 17,
+    "cache_arrays": {
+      "importance_maps": {
+        "shape": [
+          460,
+          45,
+          80
+        ],
+        "dtype": "float32"
+      },
+      "frame_sizes": {
+        "shape": [
+          460,
+          2
+        ],
+        "dtype": "int32"
+      },
+      "frame_data_sizes": {
+        "shape": [
+          460
+        ],
+        "dtype": "float32"
+      },
+      "fps": {
+        "shape": [],
+        "dtype": "float32"
+      },
+      "video_paths": {
+        "shape": [
+          1
+        ],
+        "dtype": "<U75"
+      },
+      "tile_size": {
+        "shape": [],
+        "dtype": "int32"
+      },
+      "source_resolution": {
+        "shape": [
+          2
+        ],
+        "dtype": "int32"
+      }
+    },
+    "packaged_video": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c019/vdo.avi",
+    "packaged_cache": "processed/accmpeg_importance_cache/vdo_499f8310a759.npz"
+  },
+  {
+    "user": 14,
+    "cache": "F:\\paper\\code\\video_analysis\\data\\accmpeg_importance_cache\\vdo_6b520c893272.npz",
+    "video": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c040\\vdo.avi",
+    "resolution": [
+      1600,
+      1200
+    ],
+    "bytes": 37586526,
+    "camera_files": 17,
+    "cache_arrays": {
+      "importance_maps": {
+        "shape": [
+          454,
+          45,
+          80
+        ],
+        "dtype": "float32"
+      },
+      "frame_sizes": {
+        "shape": [
+          454,
+          2
+        ],
+        "dtype": "int32"
+      },
+      "frame_data_sizes": {
+        "shape": [
+          454
+        ],
+        "dtype": "float32"
+      },
+      "frame_data_size_source": {
+        "shape": [],
+        "dtype": "<U23"
+      },
+      "fps": {
+        "shape": [],
+        "dtype": "float32"
+      },
+      "video_paths": {
+        "shape": [
+          1
+        ],
+        "dtype": "<U75"
+      },
+      "tile_size": {
+        "shape": [],
+        "dtype": "int32"
+      },
+      "source_resolution": {
+        "shape": [
+          2
+        ],
+        "dtype": "int32"
+      }
+    },
+    "packaged_video": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c040/vdo.avi",
+    "packaged_cache": "processed/accmpeg_importance_cache/vdo_6b520c893272.npz"
+  },
+  {
+    "user": 15,
+    "cache": "F:\\paper\\code\\video_analysis\\data\\accmpeg_importance_cache\\vdo_71b642a6bb49.npz",
+    "video": "F:\\paper\\code\\database\\AICity22_Track1_MTMC_Tracking\\train\\S04\\c017\\vdo.avi",
+    "resolution": [
+      1920,
+      1080
+    ],
+    "bytes": 24692627,
+    "camera_files": 17,
+    "cache_arrays": {
+      "importance_maps": {
+        "shape": [
+          281,
+          45,
+          80
+        ],
+        "dtype": "float32"
+      },
+      "frame_sizes": {
+        "shape": [
+          281,
+          2
+        ],
+        "dtype": "int32"
+      },
+      "frame_data_sizes": {
+        "shape": [
+          281
+        ],
+        "dtype": "float32"
+      },
+      "fps": {
+        "shape": [],
+        "dtype": "float32"
+      },
+      "video_paths": {
+        "shape": [
+          1
+        ],
+        "dtype": "<U75"
+      },
+      "tile_size": {
+        "shape": [],
+        "dtype": "int32"
+      },
+      "source_resolution": {
+        "shape": [
+          2
+        ],
+        "dtype": "int32"
+      }
+    },
+    "packaged_video": "raw/AICity22_Track1_MTMC_Tracking/train/S04/c017/vdo.avi",
+    "packaged_cache": "processed/accmpeg_importance_cache/vdo_71b642a6bb49.npz"
+  }
+]

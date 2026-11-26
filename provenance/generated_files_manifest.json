@@ -1,0 +1,27 @@
+[
+  {
+    "file": "workload/ECW_sample0_feature0_normalized.npy",
+    "bytes": 5888,
+    "sha256": "11ff5e6837f325a40992139144034ed898aba769d80459eb39a1c8049ec472ed"
+  },
+  {
+    "file": "workload/ECW_sample0_feature0.csv",
+    "bytes": 54760,
+    "sha256": "2b9d0054728fd82c2bc812072945ba7a425b0e2b14997a8d55a2e6b614cd6dac"
+  },
+  {
+    "file": "workload/processing.json",
+    "bytes": 281,
+    "sha256": "69b42ef530b3f18df1fc475fd3bf0f784d1c15e167e85db4dc9c3c4981623eae"
+  },
+  {
+    "file": "provenance/input_selection.json",
+    "bytes": 19909,
+    "sha256": "f8b0cf191fb8ccf047681697a221e7d004dd572411927ef801002a9aac9d1fa3"
+  },
+  {
+    "file": "provenance/video_to_cache.csv",
+    "bytes": 1928,
+    "sha256": "f6aa48cacc70cf085dc81b70c6310c63bbcae086124d812f9f2fab94532b4cf2"
+  }
+]
